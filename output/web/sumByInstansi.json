@@ -1,0 +1,18 @@
+[
+	{ "name": "Kementerian Agama", "value": 20772 },
+	{
+		"name": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+		"value": 12715
+	},
+	{ "name": "Kejaksaan Agung", "value": 9694 },
+	{ "name": "Kementerian Hukum dan Hak Asasi Manusia", "value": 9070 },
+	{ "name": "Kementerian Kesehatan", "value": 8512 },
+	{ "name": "Kementerian Pertahanan", "value": 6541 },
+	{ "name": "Kementerian Pekerjaan Umum dan Perumahan Rakyat", "value": 6379 },
+	{ "name": "Mahkamah Agung RI", "value": 4913 },
+	{
+		"name": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+		"value": 4364
+	},
+	{ "name": "Kementerian Komunikasi dan Informatika", "value": 4192 }
+]
