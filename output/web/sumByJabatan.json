@@ -1,12 +1,1 @@
-[
-	{ "name": "DOSEN ASISTEN AHLI", "value": 11408 },
-	{ "name": "PENATA KELOLA SISTEM DAN TEKNOLOGI INFORMASI", "value": 10734 },
-	{ "name": "PRANATA KOMPUTER AHLI PERTAMA", "value": 7601 },
-	{ "name": "PERAWAT TERAMPIL", "value": 6924 },
-	{ "name": "PERENCANA AHLI PERTAMA", "value": 5917 },
-	{ "name": "PENJAGA TAHANAN", "value": 5168 },
-	{ "name": "DOKTER AHLI PERTAMA - DOKTER (UMUM)", "value": 5108 },
-	{ "name": "ARSIPARIS TERAMPIL", "value": 4834 },
-	{ "name": "PRANATA KOMPUTER TERAMPIL", "value": 4747 },
-	{ "name": "PERAWAT AHLI PERTAMA", "value": 4541 }
-]
+[{"name":"DOSEN ASISTEN AHLI","value":11408},{"name":"PENATA KELOLA SISTEM DAN TEKNOLOGI INFORMASI","value":10734},{"name":"PRANATA KOMPUTER AHLI PERTAMA","value":7601},{"name":"PERAWAT TERAMPIL","value":6924},{"name":"PERENCANA AHLI PERTAMA","value":5917},{"name":"PENJAGA TAHANAN","value":5168},{"name":"DOKTER AHLI PERTAMA - DOKTER (UMUM)","value":5108},{"name":"ARSIPARIS TERAMPIL","value":4834},{"name":"PRANATA KOMPUTER TERAMPIL","value":4747},{"name":"PERAWAT AHLI PERTAMA","value":4541}]
