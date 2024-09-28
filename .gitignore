@@ -1,2 +1,5 @@
 # csv in /data/* is ignored
 /*.csv
+# folder transformed is ignored
+/transformed/
+/transformed/*

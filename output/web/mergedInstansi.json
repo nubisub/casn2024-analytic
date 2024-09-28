@@ -1,0 +1,5352 @@
+[
+	{
+		"nama": "Kementerian Agama",
+		"kode": 11171508.0,
+		"jumlah_formasi": 20772,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6314000.0,
+		"mean_gaji": 4430562.4696683744,
+		"mean_gaji_min": 2784037.934753303,
+		"mean_gaji_max": 6077087.0045834454
+	},
+	{
+		"nama": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+		"kode": 23598400.0,
+		"jumlah_formasi": 12715,
+		"gaji_min": 2436420.0,
+		"gaji_max": 8600528.0,
+		"mean_gaji": 5230997.6422193879,
+		"mean_gaji_min": 3347680.3316326533,
+		"mean_gaji_max": 7114314.9528061226
+	},
+	{
+		"nama": "Kejaksaan Agung",
+		"kode": 300150.0,
+		"jumlah_formasi": 9694,
+		"gaji_min": 7194100.0,
+		"gaji_max": 10534350.0,
+		"mean_gaji": 9121020.0,
+		"mean_gaji_min": 8171713.333333333,
+		"mean_gaji_max": 10070326.666666666
+	},
+	{
+		"nama": "Kementerian Hukum dan Hak Asasi Manusia",
+		"kode": 579772.0,
+		"jumlah_formasi": 9070,
+		"gaji_min": 2184000.0,
+		"gaji_max": 8738750.0,
+		"mean_gaji": 4572134.974093264,
+		"mean_gaji_min": 2363917.6165803107,
+		"mean_gaji_max": 6780352.3316062177
+	},
+	{
+		"nama": "Kementerian Kesehatan",
+		"kode": 7921941.0,
+		"jumlah_formasi": 8512,
+		"gaji_min": 248900.0,
+		"gaji_max": 90000000.0,
+		"mean_gaji": 7881136.8126187762,
+		"mean_gaji_min": 4820662.3797035348,
+		"mean_gaji_max": 10941611.2455340177
+	},
+	{
+		"nama": "Kementerian Pertahanan",
+		"kode": 5204199.0,
+		"jumlah_formasi": 6541,
+		"gaji_min": 200000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 3486439.8153491057,
+		"mean_gaji_min": 2278736.4108482399,
+		"mean_gaji_max": 4694143.2198499711
+	},
+	{
+		"nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+		"kode": 9066021.0,
+		"jumlah_formasi": 6379,
+		"gaji_min": 7600000.0,
+		"gaji_max": 11400000.0,
+		"mean_gaji": 9474891.7027657442,
+		"mean_gaji_min": 9183572.1426191274,
+		"mean_gaji_max": 9766211.2629123647
+	},
+	{
+		"nama": "Mahkamah Agung RI",
+		"kode": 132231.0,
+		"jumlah_formasi": 4913,
+		"gaji_min": 2485900.0,
+		"gaji_max": 11906700.0,
+		"mean_gaji": 6052621.2121212119,
+		"mean_gaji_min": 2698424.2424242422,
+		"mean_gaji_max": 9406818.1818181816
+	},
+	{
+		"nama": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta",
+		"kode": 17274000.0,
+		"jumlah_formasi": 4364,
+		"gaji_min": 6607200.0,
+		"gaji_max": 22405700.0,
+		"mean_gaji": 12655623.6262591183,
+		"mean_gaji_min": 6950582.5078152139,
+		"mean_gaji_max": 18360664.7447030209
+	},
+	{
+		"nama": "Kementerian Komunikasi dan Informatika",
+		"kode": 3923400.0,
+		"jumlah_formasi": 4192,
+		"gaji_min": 4000000.0,
+		"gaji_max": 8300000.0,
+		"mean_gaji": 5525888.5,
+		"mean_gaji_min": 5296846.153846154,
+		"mean_gaji_max": 5754930.846153846
+	},
+	{
+		"nama": "Setjen Komisi Pemilihan Umum",
+		"kode": 945594.0,
+		"jumlah_formasi": 3278,
+		"gaji_min": 5000000.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 6396367.521367521,
+		"mean_gaji_min": 5647435.897435897,
+		"mean_gaji_max": 7145299.145299145
+	},
+	{
+		"nama": "Kementerian Lingkungan Hidup dan Kehutanan",
+		"kode": 5080275.0,
+		"jumlah_formasi": 3037,
+		"gaji_min": 500000.0,
+		"gaji_max": 8500000.0,
+		"mean_gaji": 6075370.9198813057,
+		"mean_gaji_min": 5221661.7210682491,
+		"mean_gaji_max": 6929080.1186943622
+	},
+	{
+		"nama": "Pemerintah Provinsi NTT",
+		"kode": 5882800.0,
+		"jumlah_formasi": 2553,
+		"gaji_min": 218400.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3618189.5287958113,
+		"mean_gaji_min": 2730905.6282722512,
+		"mean_gaji_max": 4505473.4293193724
+	},
+	{
+		"nama": "Pemerintah Provinsi Jawa Timur",
+		"kode": 9782500.0,
+		"jumlah_formasi": 2241,
+		"gaji_min": 2485900.0,
+		"gaji_max": 14773600.0,
+		"mean_gaji": 8232867.541860465,
+		"mean_gaji_min": 4744495.3488372089,
+		"mean_gaji_max": 11721239.7348837201
+	},
+	{
+		"nama": "Pemerintah Kab. Raja Ampat",
+		"kode": 6100479.0,
+		"jumlah_formasi": 1999,
+		"gaji_min": 2000000.0,
+		"gaji_max": 34000000.0,
+		"mean_gaji": 3006417.8932178933,
+		"mean_gaji_min": 2653672.7272727271,
+		"mean_gaji_max": 3359163.0591630591
+	},
+	{
+		"nama": "Badan Pengawas Pemilihan Umum",
+		"kode": 7429398.0,
+		"jumlah_formasi": 1984,
+		"gaji_min": 5566320.0,
+		"gaji_max": 7583524.0,
+		"mean_gaji": 6687156.5636960082,
+		"mean_gaji_min": 6498730.9130672496,
+		"mean_gaji_max": 6875582.2143247677
+	},
+	{
+		"nama": "Pemerintah Kab. Barito Utara",
+		"kode": 2633886.0,
+		"jumlah_formasi": 1912,
+		"gaji_min": 250000.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 3760097.3282442749,
+		"mean_gaji_min": 2698513.994910941,
+		"mean_gaji_max": 4821680.6615776084
+	},
+	{
+		"nama": "Pemerintah Kab. Sumba Tengah",
+		"kode": 4585086.0,
+		"jumlah_formasi": 1590,
+		"gaji_min": 1500000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 3864898.9898989899,
+		"mean_gaji_min": 2856060.606060606,
+		"mean_gaji_max": 4873737.3737373734
+	},
+	{
+		"nama": "Pemerintah Kab. Lembata",
+		"kode": 5769324.0,
+		"jumlah_formasi": 1500,
+		"gaji_min": 300000.0,
+		"gaji_max": 35000000.0,
+		"mean_gaji": 2990084.6256684493,
+		"mean_gaji_min": 2609916.7112299465,
+		"mean_gaji_max": 3370252.5401069522
+	},
+	{
+		"nama": "Pemerintah Provinsi Sulawesi Tenggara",
+		"kode": 2397600.0,
+		"jumlah_formasi": 1487,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3925925.9259259258,
+		"mean_gaji_min": 2851851.8518518521,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Rote Ndao",
+		"kode": 3725862.0,
+		"jumlah_formasi": 1421,
+		"gaji_min": 2000000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 2863808.7991718422,
+		"mean_gaji_min": 2193138.0952380951,
+		"mean_gaji_max": 3534479.5031055901
+	},
+	{
+		"nama": "Badan Nasional Pencarian dan Pertolongan",
+		"kode": 158067.0,
+		"jumlah_formasi": 1389,
+		"gaji_min": 5181220.0,
+		"gaji_max": 8500766.0,
+		"mean_gaji": 6326199.41025641,
+		"mean_gaji_min": 5570071.282051282,
+		"mean_gaji_max": 7082327.538461538
+	},
+	{
+		"nama": "Kementerian Perhubungan",
+		"kode": 3120333.0,
+		"jumlah_formasi": 1350,
+		"gaji_min": 2184000.0,
+		"gaji_max": 12381901.0,
+		"mean_gaji": 4536190.5009643203,
+		"mean_gaji_min": 2520065.0183220827,
+		"mean_gaji_max": 6552315.9836065574
+	},
+	{
+		"nama": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
+		"kode": 313872.0,
+		"jumlah_formasi": 1336,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 3750000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5500000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Seluma",
+		"kode": 2995380.0,
+		"jumlah_formasi": 1329,
+		"gaji_min": 2000000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4094060.2713178289,
+		"mean_gaji_min": 2988592.4418604653,
+		"mean_gaji_max": 5199528.1007751934
+	},
+	{
+		"nama": "Pemerintah Kab. Timor Tengah Selatan",
+		"kode": 4784184.0,
+		"jumlah_formasi": 1313,
+		"gaji_min": 270000.0,
+		"gaji_max": 38000000.0,
+		"mean_gaji": 3088140.0966183576,
+		"mean_gaji_min": 2735378.4219001611,
+		"mean_gaji_max": 3440901.7713365541
+	},
+	{
+		"nama": "Pemerintah Kab. Kotabaru",
+		"kode": 4643056.0,
+		"jumlah_formasi": 1246,
+		"gaji_min": 2184000.0,
+		"gaji_max": 43187838.0,
+		"mean_gaji": 5921408.4780058656,
+		"mean_gaji_min": 2699936.0366568915,
+		"mean_gaji_max": 9142880.9193548393
+	},
+	{
+		"nama": "Pemerintah Kota Ambon",
+		"kode": 1731620.0,
+		"jumlah_formasi": 1239,
+		"gaji_min": 1.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 3625679.7795454543,
+		"mean_gaji_min": 2730921.3681818182,
+		"mean_gaji_max": 4520438.1909090905
+	},
+	{
+		"nama": "Pemerintah Kab. Sijunjung",
+		"kode": 2909504.0,
+		"jumlah_formasi": 1211,
+		"gaji_min": 1500000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2252323.4200743493,
+		"mean_gaji_min": 1500000.0,
+		"mean_gaji_max": 3004646.840148699
+	},
+	{
+		"nama": "Pemerintah Kab. Manggarai",
+		"kode": 5304480.0,
+		"jumlah_formasi": 1211,
+		"gaji_min": 250000.0,
+		"gaji_max": 45000000.0,
+		"mean_gaji": 3497856.1046511629,
+		"mean_gaji_min": 2941933.1395348841,
+		"mean_gaji_max": 4053779.0697674421
+	},
+	{
+		"nama": "Badan Kependudukan dan Keluarga Berencana Nasional",
+		"kode": 2359740.0,
+		"jumlah_formasi": 1206,
+		"gaji_min": 2485900.0,
+		"gaji_max": 9024448.0,
+		"mean_gaji": 5535700.9097103924,
+		"mean_gaji_min": 2701939.863713799,
+		"mean_gaji_max": 8369461.9557069847
+	},
+	{
+		"nama": "Pemerintah Kab. Sorong Selatan",
+		"kode": 5474844.0,
+		"jumlah_formasi": 1193,
+		"gaji_min": 290360.0,
+		"gaji_max": 4483500.0,
+		"mean_gaji": 3664263.2797427648,
+		"mean_gaji_min": 3090746.1736334404,
+		"mean_gaji_max": 4237780.3858520901
+	},
+	{
+		"nama": "Kementerian Keuangan",
+		"kode": 165275.0,
+		"jumlah_formasi": 1187,
+		"gaji_min": 4901200.0,
+		"gaji_max": 11243200.0,
+		"mean_gaji": 8339462.7272727266,
+		"mean_gaji_min": 5963076.3636363633,
+		"mean_gaji_max": 10715849.0909090918
+	},
+	{
+		"nama": "Kementerian Pertanian",
+		"kode": 2359710.0,
+		"jumlah_formasi": 1157,
+		"gaji_min": 303880.0,
+		"gaji_max": 9218052.0,
+		"mean_gaji": 5222534.4191082809,
+		"mean_gaji_min": 2908146.3719745222,
+		"mean_gaji_max": 7536922.4662420386
+	},
+	{
+		"nama": "Pemerintah Kab. Jayawijaya",
+		"kode": 6256019.0,
+		"jumlah_formasi": 1138,
+		"gaji_min": 2200000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 4473504.8678720444,
+		"mean_gaji_min": 2792350.4867872046,
+		"mean_gaji_max": 6154659.2489568843
+	},
+	{
+		"nama": "Pemerintah Kab. Halmahera Timur",
+		"kode": 5146806.0,
+		"jumlah_formasi": 1125,
+		"gaji_min": 100000.0,
+		"gaji_max": 45752004.0,
+		"mean_gaji": 3480128.5745007684,
+		"mean_gaji_min": 2667977.2657450079,
+		"mean_gaji_max": 4292279.8832565285
+	},
+	{
+		"nama": "Pemerintah Kab. Biak Numfor",
+		"kode": 5033258.0,
+		"jumlah_formasi": 1121,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3296820.3497615261,
+		"mean_gaji_min": 2822575.5166931641,
+		"mean_gaji_max": 3771065.182829889
+	},
+	{
+		"nama": "Kementerian Ketenagakerjaan",
+		"kode": 1967489.0,
+		"jumlah_formasi": 1106,
+		"gaji_min": 5300000.0,
+		"gaji_max": 9100000.0,
+		"mean_gaji": 6919754.9770290963,
+		"mean_gaji_min": 6170137.8254211331,
+		"mean_gaji_max": 7669372.1286370596
+	},
+	{
+		"nama": "Pemerintah Kab. Maluku Barat Daya",
+		"kode": 3802983.0,
+		"jumlah_formasi": 1078,
+		"gaji_min": 2299800.0,
+		"gaji_max": 4680253.0,
+		"mean_gaji": 3558070.4589322386,
+		"mean_gaji_min": 3069308.825462013,
+		"mean_gaji_max": 4046832.0924024638
+	},
+	{
+		"nama": "Pemerintah Provinsi Papua Barat Daya",
+		"kode": 5130400.0,
+		"jumlah_formasi": 1076,
+		"gaji_min": 2498200.0,
+		"gaji_max": 5250600.0,
+		"mean_gaji": 3864739.1080617495,
+		"mean_gaji_min": 3365596.7409948544,
+		"mean_gaji_max": 4363881.4751286451
+	},
+	{
+		"nama": "Pemerintah Kab. Sumba Barat",
+		"kode": 4380416.0,
+		"jumlah_formasi": 1055,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3619871.7429577466,
+		"mean_gaji_min": 2746910.5633802819,
+		"mean_gaji_max": 4492832.9225352108
+	},
+	{
+		"nama": "Pemerintah Kab. Dogiyai",
+		"kode": 4148574.0,
+		"jumlah_formasi": 1003,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3000000.0,
+		"mean_gaji": 2498962.6556016598,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 2997925.31120332
+	},
+	{
+		"nama": "Pemerintah Provinsi Papua Selatan",
+		"kode": 2448000.0,
+		"jumlah_formasi": 1000,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3542785.243055555,
+		"mean_gaji_min": 2683344.7916666665,
+		"mean_gaji_max": 4402225.694444444
+	},
+	{
+		"nama": "Pemerintah Provinsi Papua Pegunungan",
+		"kode": 3297300.0,
+		"jumlah_formasi": 974,
+		"gaji_min": 208000.0,
+		"gaji_max": 27500000.0,
+		"mean_gaji": 4896956.9195250664,
+		"mean_gaji_min": 2566127.968337731,
+		"mean_gaji_max": 7227785.8707124013
+	},
+	{
+		"nama": "Pemerintah Provinsi Papua Tengah",
+		"kode": 2941200.0,
+		"jumlah_formasi": 945,
+		"gaji_min": 300000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 5357602.3391812872,
+		"mean_gaji_min": 2984210.5263157897,
+		"mean_gaji_max": 7730994.1520467838
+	},
+	{
+		"nama": "Pemerintah Kab. Luwu Timur",
+		"kode": 3450075.0,
+		"jumlah_formasi": 922,
+		"gaji_min": 2500000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 3552547.7707006373,
+		"mean_gaji_min": 2980891.7197452229,
+		"mean_gaji_max": 4124203.8216560511
+	},
+	{
+		"nama": "Pemerintah Kab. Minahasa Selatan",
+		"kode": 2360348.0,
+		"jumlah_formasi": 914,
+		"gaji_min": 2100000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 4937982.1958456971,
+		"mean_gaji_min": 2641543.0267062318,
+		"mean_gaji_max": 7234421.3649851633
+	},
+	{
+		"nama": "Pemerintah Kab. Lahat",
+		"kode": 2605860.0,
+		"jumlah_formasi": 905,
+		"gaji_min": 2184400.0,
+		"gaji_max": 3703600.0,
+		"mean_gaji": 2946591.8279569894,
+		"mean_gaji_min": 2697618.7096774192,
+		"mean_gaji_max": 3195564.9462365592
+	},
+	{
+		"nama": "Pemerintah Provinsi Jawa Barat",
+		"kode": 2806000.0,
+		"jumlah_formasi": 864,
+		"gaji_min": 3000000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4095652.1739130439,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 5191304.3478260869
+	},
+	{
+		"nama": "Pemerintah Kab. Muara Enim",
+		"kode": 2868736.0,
+		"jumlah_formasi": 854,
+		"gaji_min": 2288200.0,
+		"gaji_max": 3450096.0,
+		"mean_gaji": 2908482.986328125,
+		"mean_gaji_min": 2718208.3984375,
+		"mean_gaji_max": 3098757.57421875
+	},
+	{
+		"nama": "Pemerintah Kab. Keerom",
+		"kode": 1708260.0,
+		"jumlah_formasi": 850,
+		"gaji_min": 1900000.0,
+		"gaji_max": 3700000.0,
+		"mean_gaji": 2811502.3474178403,
+		"mean_gaji_min": 2415023.4741784041,
+		"mean_gaji_max": 3207981.2206572769
+	},
+	{
+		"nama": "Pemerintah Provinsi Sumatera Utara",
+		"kode": 2412800.0,
+		"jumlah_formasi": 846,
+		"gaji_min": 1747200.0,
+		"gaji_max": 2555168.0,
+		"mean_gaji": 2275935.5625,
+		"mean_gaji_min": 2167557.7801724137,
+		"mean_gaji_max": 2384313.3448275863
+	},
+	{
+		"nama": "Pemerintah Kab. Mimika",
+		"kode": 5291460.0,
+		"jumlah_formasi": 840,
+		"gaji_min": 5000000.0,
+		"gaji_max": 70000000.0,
+		"mean_gaji": 6273983.7398373988,
+		"mean_gaji_min": 5000000.0,
+		"mean_gaji_max": 7547967.4796747966
+	},
+	{
+		"nama": "Kementerian Perindustrian",
+		"kode": 685540.0,
+		"jumlah_formasi": 834,
+		"gaji_min": 5200000.0,
+		"gaji_max": 9200000.0,
+		"mean_gaji": 7569383.2599118948,
+		"mean_gaji_min": 6784581.4977973569,
+		"mean_gaji_max": 8354185.0220264317
+	},
+	{
+		"nama": "Badan Pengawasan Keuangan dan Pembangunan",
+		"kode": 92529.0,
+		"jumlah_formasi": 831,
+		"gaji_min": 8000000.0,
+		"gaji_max": 11500000.0,
+		"mean_gaji": 9826086.9565217383,
+		"mean_gaji_min": 9043478.2608695645,
+		"mean_gaji_max": 10608695.6521739122
+	},
+	{
+		"nama": "Pemerintah Kab. Malaka",
+		"kode": 2617419.0,
+		"jumlah_formasi": 806,
+		"gaji_min": 250000.0,
+		"gaji_max": 36000000.0,
+		"mean_gaji": 2985398.2300884961,
+		"mean_gaji_min": 2439233.0383480825,
+		"mean_gaji_max": 3531563.4218289084
+	},
+	{
+		"nama": "Badan Pengawas Obat dan Makanan ",
+		"kode": 423255.0,
+		"jumlah_formasi": 781,
+		"gaji_min": 4960000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 7737047.6190476194,
+		"mean_gaji_min": 5893142.8571428573,
+		"mean_gaji_max": 9580952.3809523806
+	},
+	{
+		"nama": "Pemerintah Kab. Bojonegoro",
+		"kode": 2617327.0,
+		"jumlah_formasi": 761,
+		"gaji_min": 2485900.0,
+		"gaji_max": 8845850.0,
+		"mean_gaji": 4853154.4887780547,
+		"mean_gaji_min": 2878815.4613466333,
+		"mean_gaji_max": 6827493.5162094766
+	},
+	{
+		"nama": "Pemerintah Kab. Manggarai Barat",
+		"kode": 2275925.0,
+		"jumlah_formasi": 751,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3396610.1694915257,
+		"mean_gaji_min": 2900000.0,
+		"mean_gaji_max": 3893220.338983051
+	},
+	{
+		"nama": "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
+		"kode": 1144845.0,
+		"jumlah_formasi": 748,
+		"gaji_min": 7500000.0,
+		"gaji_max": 12500000.0,
+		"mean_gaji": 10477192.9824561402,
+		"mean_gaji_min": 9119298.2456140369,
+		"mean_gaji_max": 11835087.7192982435
+	},
+	{
+		"nama": "Pemerintah Kab. Fak-Fak",
+		"kode": 2823208.0,
+		"jumlah_formasi": 745,
+		"gaji_min": 2300000.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 3606104.6511627911,
+		"mean_gaji_min": 3045930.2325581401,
+		"mean_gaji_max": 4166279.0697674421
+	},
+	{
+		"nama": "Kementerian Energi dan Sumber Daya Mineral",
+		"kode": 1245312.0,
+		"jumlah_formasi": 745,
+		"gaji_min": 6300000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 8740652.173913043,
+		"mean_gaji_min": 8259637.6811594199,
+		"mean_gaji_max": 9221666.666666666
+	},
+	{
+		"nama": "Pemerintah Kab. Halmahera Selatan",
+		"kode": 4434144.0,
+		"jumlah_formasi": 743,
+		"gaji_min": 2184000.0,
+		"gaji_max": 6373296.0,
+		"mean_gaji": 4531044.1889483072,
+		"mean_gaji_min": 2721774.0106951874,
+		"mean_gaji_max": 6340314.3672014261
+	},
+	{
+		"nama": "Pemerintah Kab. Ende",
+		"kode": 3368396.0,
+		"jumlah_formasi": 740,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2604118.9931350118,
+		"mean_gaji_min": 2105263.1578947366,
+		"mean_gaji_max": 3102974.828375286
+	},
+	{
+		"nama": "Pemerintah Kab. Mamberamo Raya",
+		"kode": 2689380.0,
+		"jumlah_formasi": 739,
+		"gaji_min": 200000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 2569850.7462686566,
+		"mean_gaji_min": 1991641.7910447761,
+		"mean_gaji_max": 3148059.7014925373
+	},
+	{
+		"nama": "Pemerintah Kab. Sikka",
+		"kode": 4030238.0,
+		"jumlah_formasi": 705,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 3549039.3881453155,
+		"mean_gaji_min": 2703064.8183556404,
+		"mean_gaji_max": 4395013.9579349915
+	},
+	{
+		"nama": "Pemerintah Kab. Pegunungan Bintang",
+		"kode": 2959020.0,
+		"jumlah_formasi": 700,
+		"gaji_min": 2300000.0,
+		"gaji_max": 4800000.0,
+		"mean_gaji": 3281617.6470588241,
+		"mean_gaji_min": 2843529.411764706,
+		"mean_gaji_max": 3719705.8823529412
+	},
+	{
+		"nama": "Pemerintah Kota Serang",
+		"kode": 3243141.0,
+		"jumlah_formasi": 698,
+		"gaji_min": 2004600.0,
+		"gaji_max": 11385049.0,
+		"mean_gaji": 3208793.1837524176,
+		"mean_gaji_min": 2530410.522243714,
+		"mean_gaji_max": 3887175.8452611216
+	},
+	{
+		"nama": "Pemerintah Kab. Minahasa Tenggara",
+		"kode": 3020879.0,
+		"jumlah_formasi": 693,
+		"gaji_min": 2485900.0,
+		"gaji_max": 39582003.0,
+		"mean_gaji": 4064351.1635730863,
+		"mean_gaji_min": 2729854.9883990721,
+		"mean_gaji_max": 5398847.3387471
+	},
+	{
+		"nama": "Pemerintah Aceh",
+		"kode": 1188300.0,
+		"jumlah_formasi": 678,
+		"gaji_min": 2400000.0,
+		"gaji_max": 3600000.0,
+		"mean_gaji": 3019742.4892703863,
+		"mean_gaji_min": 2896137.3390557938,
+		"mean_gaji_max": 3143347.6394849787
+	},
+	{
+		"nama": "Kementerian Sosial",
+		"kode": 916256.0,
+		"jumlah_formasi": 677,
+		"gaji_min": 725750.0,
+		"gaji_max": 10888300.0,
+		"mean_gaji": 8372092.0230263155,
+		"mean_gaji_min": 7499369.9013157897,
+		"mean_gaji_max": 9244814.1447368395
+	},
+	{
+		"nama": "Pemerintah Kota Surabaya",
+		"kode": 1741315.0,
+		"jumlah_formasi": 664,
+		"gaji_min": 2485900.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2701156.2264150945,
+		"mean_gaji_min": 2701156.2264150945,
+		"mean_gaji_max": 2701156.2264150945
+	},
+	{
+		"nama": "Pemerintah Kab. Badung",
+		"kode": 2086946.0,
+		"jumlah_formasi": 660,
+		"gaji_min": 2558320.0,
+		"gaji_max": 24092252.0,
+		"mean_gaji": 8970460.4298561141,
+		"mean_gaji_min": 3124245.1510791369,
+		"mean_gaji_max": 14816675.7086330913
+	},
+	{
+		"nama": "Pemerintah Kab. Kendal",
+		"kode": 2067846.0,
+		"jumlah_formasi": 657,
+		"gaji_min": 2500000.0,
+		"gaji_max": 90000000.0,
+		"mean_gaji": 5810835.9133126931,
+		"mean_gaji_min": 2897213.622291021,
+		"mean_gaji_max": 8724458.2043343652
+	},
+	{
+		"nama": "Pemerintah Kab. Barito Selatan",
+		"kode": 1749483.0,
+		"jumlah_formasi": 651,
+		"gaji_min": 3000000.0,
+		"gaji_max": 33000000.0,
+		"mean_gaji": 5802681.9923371645,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 8605363.9846743289
+	},
+	{
+		"nama": "Pemerintah Kab. Simalungun",
+		"kode": 1936260.0,
+		"jumlah_formasi": 620,
+		"gaji_min": 1685700.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4031199.1935483874,
+		"mean_gaji_min": 2575032.7956989249,
+		"mean_gaji_max": 5487365.5913978498
+	},
+	{
+		"nama": "Pemerintah Kab. Lamongan",
+		"kode": 3303674.0,
+		"jumlah_formasi": 609,
+		"gaji_min": 2000000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 3571640.3162055332,
+		"mean_gaji_min": 2785573.1225296441,
+		"mean_gaji_max": 4357707.5098814229
+	},
+	{
+		"nama": "Pemerintah Kab. Labuhanbatu Utara",
+		"kode": 2334681.0,
+		"jumlah_formasi": 604,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5716000.0,
+		"mean_gaji": 3796760.4026845638,
+		"mean_gaji_min": 2660764.2058165548,
+		"mean_gaji_max": 4932756.5995525727
+	},
+	{
+		"nama": "Pemerintah Kab. Kupang",
+		"kode": 3057297.0,
+		"jumlah_formasi": 600,
+		"gaji_min": 200000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2990176.3224181361,
+		"mean_gaji_min": 1995465.9949622168,
+		"mean_gaji_max": 3984886.6498740553
+	},
+	{
+		"nama": "Badan Intelijen Negara",
+		"kode": 916687.0,
+		"jumlah_formasi": 600,
+		"gaji_min": 3500000.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 5500000.0,
+		"mean_gaji_min": 3500000.0,
+		"mean_gaji_max": 7500000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Ngada",
+		"kode": 3361124.0,
+		"jumlah_formasi": 600,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3110091.7431192659,
+		"mean_gaji_min": 2860091.7431192659,
+		"mean_gaji_max": 3360091.7431192659
+	},
+	{
+		"nama": "Otorita Ibu Kota Nusantara",
+		"kode": 1037595.0,
+		"jumlah_formasi": 599,
+		"gaji_min": 7500000.0,
+		"gaji_max": 14500000.0,
+		"mean_gaji": 12493137.2549019605,
+		"mean_gaji_min": 11243137.2549019605,
+		"mean_gaji_max": 13743137.2549019605
+	},
+	{
+		"nama": "Pemerintah Kab. Banggai Kepulauan",
+		"kode": 2515243.0,
+		"jumlah_formasi": 590,
+		"gaji_min": 245900.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3253033.5243553007,
+		"mean_gaji_min": 2654557.3065902577,
+		"mean_gaji_max": 3851509.7421203442
+	},
+	{
+		"nama": "Pemerintah Kab. Pegunungan Arfak",
+		"kode": 2241876.0,
+		"jumlah_formasi": 582,
+		"gaji_min": 2511500.0,
+		"gaji_max": 5250600.0,
+		"mean_gaji": 3724775.0915750922,
+		"mean_gaji_min": 3225653.846153846,
+		"mean_gaji_max": 4223896.3369963374
+	},
+	{
+		"nama": "Pemerintah Kab. Lebong",
+		"kode": 1690128.0,
+		"jumlah_formasi": 577,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3546019.4158075601,
+		"mean_gaji_min": 2696402.0618556701,
+		"mean_gaji_max": 4395636.7697594501
+	},
+	{
+		"nama": "Pemerintah Kab. Gresik",
+		"kode": 2593899.0,
+		"jumlah_formasi": 575,
+		"gaji_min": 278000.0,
+		"gaji_max": 3860000.0,
+		"mean_gaji": 3009483.7092731828,
+		"mean_gaji_min": 2701849.6240601502,
+		"mean_gaji_max": 3317117.7944862158
+	},
+	{
+		"nama": "Pemerintah Kab. Sigi",
+		"kode": 2026010.0,
+		"jumlah_formasi": 566,
+		"gaji_min": 3000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 3729882.0284697511,
+		"mean_gaji_min": 2912170.8185053379,
+		"mean_gaji_max": 4547593.2384341639
+	},
+	{
+		"nama": "Pemerintah Kab. Banyuasin",
+		"kode": 1794240.0,
+		"jumlah_formasi": 566,
+		"gaji_min": 228560.0,
+		"gaji_max": 5475200.0,
+		"mean_gaji": 3267608.875,
+		"mean_gaji_min": 2558990.75,
+		"mean_gaji_max": 3976227.0
+	},
+	{
+		"nama": "Pemerintah Provinsi Maluku Utara",
+		"kode": 2069800.0,
+		"jumlah_formasi": 565,
+		"gaji_min": 3000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 3534362.5954198474,
+		"mean_gaji_min": 2988561.0687022903,
+		"mean_gaji_max": 4080164.122137405
+	},
+	{
+		"nama": "Pemerintah Provinsi Lampung",
+		"kode": 1911600.0,
+		"jumlah_formasi": 551,
+		"gaji_min": 1988720.0,
+		"gaji_max": 4322800.0,
+		"mean_gaji": 3224041.4814814813,
+		"mean_gaji_min": 2224041.4814814813,
+		"mean_gaji_max": 4224041.4814814813
+	},
+	{
+		"nama": "Pemerintah Kab. Maluku Tengah",
+		"kode": 3065793.0,
+		"jumlah_formasi": 547,
+		"gaji_min": 2511500.0,
+		"gaji_max": 57160000.0,
+		"mean_gaji": 4210968.4478371497,
+		"mean_gaji_min": 3157006.1068702289,
+		"mean_gaji_max": 5264930.788804071
+	},
+	{
+		"nama": "Pemerintah Kab. Alor",
+		"kode": 3505775.0,
+		"jumlah_formasi": 546,
+		"gaji_min": 2184000.0,
+		"gaji_max": 45000000.0,
+		"mean_gaji": 4300113.2230769228,
+		"mean_gaji_min": 2749569.8901098901,
+		"mean_gaji_max": 5850656.5560439564
+	},
+	{
+		"nama": "Pemerintah Kab. Lingga",
+		"kode": 2050312.0,
+		"jumlah_formasi": 540,
+		"gaji_min": 1918700.0,
+		"gaji_max": 31686225.0,
+		"mean_gaji": 4571927.2509881426,
+		"mean_gaji_min": 2467790.9090909092,
+		"mean_gaji_max": 6676063.592885376
+	},
+	{
+		"nama": "Pemerintah Kota Medan",
+		"kode": 2108400.0,
+		"jumlah_formasi": 539,
+		"gaji_min": 2500000.0,
+		"gaji_max": 8500000.0,
+		"mean_gaji": 5017500.0,
+		"mean_gaji_min": 3010000.0,
+		"mean_gaji_max": 7025000.0
+	},
+	{
+		"nama": "Pemerintah Provinsi Sulawesi Tengah",
+		"kode": 1274400.0,
+		"jumlah_formasi": 534,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 3668606.2146892659,
+		"mean_gaji_min": 2737002.8248587572,
+		"mean_gaji_max": 4600209.6045197742
+	},
+	{
+		"nama": "Badan Kepegawaian Negara",
+		"kode": 1095003.0,
+		"jumlah_formasi": 529,
+		"gaji_min": 6176300.0,
+		"gaji_max": 9159850.0,
+		"mean_gaji": 7345885.7142857146,
+		"mean_gaji_min": 6948394.871794872,
+		"mean_gaji_max": 7743376.5567765571
+	},
+	{
+		"nama": "Badan Karantina Indonesia",
+		"kode": 683928.0,
+		"jumlah_formasi": 525,
+		"gaji_min": 4500000.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 5879464.2857142854,
+		"mean_gaji_min": 4500000.0,
+		"mean_gaji_max": 7258928.5714285718
+	},
+	{
+		"nama": "Pemerintah Provinsi Kalimantan Tengah",
+		"kode": 1420400.0,
+		"jumlah_formasi": 523,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3594837.7358490564,
+		"mean_gaji_min": 2730765.0943396227,
+		"mean_gaji_max": 4458910.3773584906
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Aru",
+		"kode": 1717100.0,
+		"jumlah_formasi": 518,
+		"gaji_min": 2100000.0,
+		"gaji_max": 5200000.0,
+		"mean_gaji": 3582045.4545454546,
+		"mean_gaji_min": 2716818.1818181816,
+		"mean_gaji_max": 4447272.7272727285
+	},
+	{
+		"nama": "Pemerintah Kota Sorong",
+		"kode": 1937320.0,
+		"jumlah_formasi": 500,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3635902.9545454541,
+		"mean_gaji_min": 2754657.7272727271,
+		"mean_gaji_max": 4517148.1818181816
+	},
+	{
+		"nama": "Pemerintah Kab. Mamberamo Tengah",
+		"kode": 1340570.0,
+		"jumlah_formasi": 500,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3248376.6233766237,
+		"mean_gaji_min": 2996753.2467532465,
+		"mean_gaji_max": 3500000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Buru Selatan",
+		"kode": 3271552.0,
+		"jumlah_formasi": 500,
+		"gaji_min": 2000000.0,
+		"gaji_max": 35000000.0,
+		"mean_gaji": 3128400.9546539378,
+		"mean_gaji_min": 2725775.6563245822,
+		"mean_gaji_max": 3531026.252983293
+	},
+	{
+		"nama": "Badan Riset dan Inovasi Nasional",
+		"kode": 24402.0,
+		"jumlah_formasi": 500,
+		"gaji_min": 7000000.0,
+		"gaji_max": 11000000.0,
+		"mean_gaji": 9000000.0,
+		"mean_gaji_min": 7000000.0,
+		"mean_gaji_max": 11000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Majalengka",
+		"kode": 1333288.0,
+		"jumlah_formasi": 495,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3310104.0,
+		"mean_gaji": 2868688.1605504584,
+		"mean_gaji_min": 2681016.972477064,
+		"mean_gaji_max": 3056359.3486238532
+	},
+	{
+		"nama": "Pemerintah Kota Padang",
+		"kode": 1713675.0,
+		"jumlah_formasi": 487,
+		"gaji_min": 2100000.0,
+		"gaji_max": 4100000.0,
+		"mean_gaji": 3246805.1118210861,
+		"mean_gaji_min": 2399041.5335463258,
+		"mean_gaji_max": 4094568.690095847
+	},
+	{
+		"nama": "Pemerintah Kab. Tangerang",
+		"kode": 1941852.0,
+		"jumlah_formasi": 482,
+		"gaji_min": 2256000.0,
+		"gaji_max": 64765699.0,
+		"mean_gaji": 7427793.5862619802,
+		"mean_gaji_min": 2764339.2971246005,
+		"mean_gaji_max": 12091247.8753993604
+	},
+	{
+		"nama": "Pemerintah Kab. Nduga",
+		"kode": 1941438.0,
+		"jumlah_formasi": 480,
+		"gaji_min": 2300000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3270403.5874439459,
+		"mean_gaji_min": 2843049.3273542603,
+		"mean_gaji_max": 3697757.8475336321
+	},
+	{
+		"nama": "Pemerintah Kab. Penukal Abab Lematang Ilir",
+		"kode": 1032850.0,
+		"jumlah_formasi": 478,
+		"gaji_min": 2511500.0,
+		"gaji_max": 30595700.0,
+		"mean_gaji": 3569927.1978021981,
+		"mean_gaji_min": 3429962.6373626376,
+		"mean_gaji_max": 3709891.7582417582
+	},
+	{
+		"nama": "Pemerintah Kab. Maluku Tenggara",
+		"kode": 2161154.0,
+		"jumlah_formasi": 471,
+		"gaji_min": 1000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3353790.6137184119,
+		"mean_gaji_min": 2054151.6245487365,
+		"mean_gaji_max": 4653429.6028880868
+	},
+	{
+		"nama": "Pemerintah Kab. Pesisir Barat",
+		"kode": 1821204.0,
+		"jumlah_formasi": 460,
+		"gaji_min": 1747200.0,
+		"gaji_max": 4226781.0,
+		"mean_gaji": 3158609.3587662331,
+		"mean_gaji_min": 2207571.6883116881,
+		"mean_gaji_max": 4109647.0292207794
+	},
+	{
+		"nama": "Pemerintah Kab. Donggala",
+		"kode": 1116310.0,
+		"jumlah_formasi": 459,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3250000.0,
+		"mean_gaji_min": 2500000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Intan Jaya",
+		"kode": 1204700.0,
+		"jumlah_formasi": 457,
+		"gaji_min": 1000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3000000.0,
+		"mean_gaji_min": 1000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Deiyai",
+		"kode": 2710890.0,
+		"jumlah_formasi": 453,
+		"gaji_min": 250000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 3231666.666666667,
+		"mean_gaji_min": 2767777.777777778,
+		"mean_gaji_max": 3695555.555555556
+	},
+	{
+		"nama": "Pemerintah Kab. Kerinci",
+		"kode": 1414785.0,
+		"jumlah_formasi": 450,
+		"gaji_min": 2184000.0,
+		"gaji_max": 7126086.0,
+		"mean_gaji": 4413697.4027237352,
+		"mean_gaji_min": 2713509.3385214009,
+		"mean_gaji_max": 6113885.4669260699
+	},
+	{
+		"nama": "Pemerintah Kab. Berau",
+		"kode": 2133336.0,
+		"jumlah_formasi": 448,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 3598303.883495145,
+		"mean_gaji_min": 2730816.504854369,
+		"mean_gaji_max": 4465791.262135922
+	},
+	{
+		"nama": "Pemerintah Kab. Lamandau",
+		"kode": 2441712.0,
+		"jumlah_formasi": 442,
+		"gaji_min": 2485900.0,
+		"gaji_max": 45755200.0,
+		"mean_gaji": 3659056.5934065934,
+		"mean_gaji_min": 2734783.7912087911,
+		"mean_gaji_max": 4583329.3956043953
+	},
+	{
+		"nama": "Pemerintah Kab. Bolaang Mongondow Utara",
+		"kode": 1891890.0,
+		"jumlah_formasi": 436,
+		"gaji_min": 2458900.0,
+		"gaji_max": 3743600.0,
+		"mean_gaji": 2881318.333333333,
+		"mean_gaji_min": 2715470.7407407407,
+		"mean_gaji_max": 3047165.9259259258
+	},
+	{
+		"nama": "Pemerintah Kab. Mahakam Ulu",
+		"kode": 2350080.0,
+		"jumlah_formasi": 434,
+		"gaji_min": 3400000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 5200000.0,
+		"mean_gaji_min": 3400000.0,
+		"mean_gaji_max": 7000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Nagekeo",
+		"kode": 1427830.0,
+		"jumlah_formasi": 434,
+		"gaji_min": 2150000.0,
+		"gaji_max": 3600000.0,
+		"mean_gaji": 3026891.8918918921,
+		"mean_gaji_min": 2696486.4864864866,
+		"mean_gaji_max": 3357297.297297297
+	},
+	{
+		"nama": "Pemerintah Kota Tual",
+		"kode": 2070336.0,
+		"jumlah_formasi": 428,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3500000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Barito Timur",
+		"kode": 2262281.0,
+		"jumlah_formasi": 425,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2929525.2225519288,
+		"mean_gaji_min": 2776557.863501484,
+		"mean_gaji_max": 3082492.5816023741
+	},
+	{
+		"nama": "Pemerintah Kab. Tana Toraja",
+		"kode": 2301390.0,
+		"jumlah_formasi": 422,
+		"gaji_min": 2184000.0,
+		"gaji_max": 47474000.0,
+		"mean_gaji": 3409800.6349206348,
+		"mean_gaji_min": 2584684.1269841269,
+		"mean_gaji_max": 4234917.1428571427
+	},
+	{
+		"nama": "Pemerintah Kab. Mandailing Natal",
+		"kode": 1355380.0,
+		"jumlah_formasi": 421,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3222700.0,
+		"mean_gaji": 2783476.5384615385,
+		"mean_gaji_min": 2766916.5384615385,
+		"mean_gaji_max": 2800036.5384615385
+	},
+	{
+		"nama": "Kementerian Sekretariat Negara",
+		"kode": 652163.0,
+		"jumlah_formasi": 420,
+		"gaji_min": 2738320.0,
+		"gaji_max": 10990020.0,
+		"mean_gaji": 6296886.2576687112,
+		"mean_gaji_min": 3102110.1840490801,
+		"mean_gaji_max": 9491662.3312883433
+	},
+	{
+		"nama": "Pemerintah Provinsi Sumatera Barat",
+		"kode": 1015200.0,
+		"jumlah_formasi": 418,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 2975103.0904255318,
+		"mean_gaji_min": 2731180.8510638298,
+		"mean_gaji_max": 3219025.3297872338
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Tanimbar",
+		"kode": 2403632.0,
+		"jumlah_formasi": 409,
+		"gaji_min": 100000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 2650484.4155844161,
+		"mean_gaji_min": 1885110.3896103897,
+		"mean_gaji_max": 3415858.4415584416
+	},
+	{
+		"nama": "Badan Pusat Statistik ",
+		"kode": 787136.0,
+		"jumlah_formasi": 408,
+		"gaji_min": 2358800.0,
+		"gaji_max": 8454550.0,
+		"mean_gaji": 5115478.4438775508,
+		"mean_gaji_min": 2754914.2857142859,
+		"mean_gaji_max": 7476042.6020408161
+	},
+	{
+		"nama": "Badan Pelindungan Pekerja Migran Indonesia",
+		"kode": 915526.0,
+		"jumlah_formasi": 400,
+		"gaji_min": 5749460.0,
+		"gaji_max": 7746358.0,
+		"mean_gaji": 6911256.7345132744,
+		"mean_gaji_min": 6528586.5486725662,
+		"mean_gaji_max": 7293926.9203539826
+	},
+	{
+		"nama": "Pemerintah Kab. Morowali Utara",
+		"kode": 1579428.0,
+		"jumlah_formasi": 399,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3026400.0,
+		"mean_gaji": 2708480.593607306,
+		"mean_gaji_min": 2708211.4155251142,
+		"mean_gaji_max": 2708749.7716894979
+	},
+	{
+		"nama": "Pemerintah Kab. Manggarai Timur",
+		"kode": 1466040.0,
+		"jumlah_formasi": 398,
+		"gaji_min": 1734900.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3133882.9473684211,
+		"mean_gaji_min": 2745959.2631578948,
+		"mean_gaji_max": 3521806.6315789474
+	},
+	{
+		"nama": "Badan Keamanan Laut RI",
+		"kode": 1000844.0,
+		"jumlah_formasi": 397,
+		"gaji_min": 5000000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 6458299.5951416995,
+		"mean_gaji_min": 5410526.3157894732,
+		"mean_gaji_max": 7506072.8744939268
+	},
+	{
+		"nama": "Pemerintah Kab. Tolikara",
+		"kode": 2602496.0,
+		"jumlah_formasi": 388,
+		"gaji_min": 2300000.0,
+		"gaji_max": 4800000.0,
+		"mean_gaji": 3470234.1137123746,
+		"mean_gaji_min": 3024080.2675585286,
+		"mean_gaji_max": 3916387.9598662206
+	},
+	{
+		"nama": "Pemerintah Kab. Landak",
+		"kode": 1407504.0,
+		"jumlah_formasi": 385,
+		"gaji_min": 2000000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 4022769.953051643,
+		"mean_gaji_min": 2897652.5821596244,
+		"mean_gaji_max": 5147887.3239436615
+	},
+	{
+		"nama": "Pemerintah Kab. Gunung Mas",
+		"kode": 1026171.0,
+		"jumlah_formasi": 381,
+		"gaji_min": 288590.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 5211711.1437908495,
+		"mean_gaji_min": 3976548.9542483659,
+		"mean_gaji_max": 6446873.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Puncak",
+		"kode": 2091744.0,
+		"jumlah_formasi": 377,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3831275.7201646091,
+		"mean_gaji_min": 2921810.6995884771,
+		"mean_gaji_max": 4740740.7407407407
+	},
+	{
+		"nama": "Pemerintah Kab. Bogor",
+		"kode": 1958421.0,
+		"jumlah_formasi": 376,
+		"gaji_min": 2485900.0,
+		"gaji_max": 25000000.0,
+		"mean_gaji": 4064095.0186915887,
+		"mean_gaji_min": 2704068.535825545,
+		"mean_gaji_max": 5424121.5015576323
+	},
+	{
+		"nama": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
+		"kode": 625554.0,
+		"jumlah_formasi": 372,
+		"gaji_min": 6157600.0,
+		"gaji_max": 69327000.0,
+		"mean_gaji": 7958477.4154589372,
+		"mean_gaji_min": 7477131.6425120775,
+		"mean_gaji_max": 8439823.1884057969
+	},
+	{
+		"nama": "Pemerintah Kab. Nias",
+		"kode": 1104732.0,
+		"jumlah_formasi": 370,
+		"gaji_min": 1685700.0,
+		"gaji_max": 6373200.0,
+		"mean_gaji": 4029450.0,
+		"mean_gaji_min": 1685700.0,
+		"mean_gaji_max": 6373200.0
+	},
+	{
+		"nama": "Pemerintah Kab. Jayapura",
+		"kode": 1872234.0,
+		"jumlah_formasi": 369,
+		"gaji_min": 2560000.0,
+		"gaji_max": 5700000.0,
+		"mean_gaji": 3390299.145299145,
+		"mean_gaji_min": 2892393.1623931625,
+		"mean_gaji_max": 3888205.128205128
+	},
+	{
+		"nama": "Pemerintah Kab. Jepara",
+		"kode": 1243928.0,
+		"jumlah_formasi": 369,
+		"gaji_min": 2000000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 3994845.3608247424,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5989690.7216494847
+	},
+	{
+		"nama": "Pemerintah Kab. Buton",
+		"kode": 1806088.0,
+		"jumlah_formasi": 363,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4184800.0,
+		"mean_gaji": 3091163.524590164,
+		"mean_gaji_min": 2700927.8688524589,
+		"mean_gaji_max": 3481399.180327869
+	},
+	{
+		"nama": "Pemerintah Kota Pontianak",
+		"kode": 1340871.0,
+		"jumlah_formasi": 348,
+		"gaji_min": 2184000.0,
+		"gaji_max": 9990514.0,
+		"mean_gaji": 5008053.940298507,
+		"mean_gaji_min": 2708410.8656716417,
+		"mean_gaji_max": 7307697.0149253728
+	},
+	{
+		"nama": "Pemerintah Kab. Sumba Timur",
+		"kode": 2043415.0,
+		"jumlah_formasi": 347,
+		"gaji_min": 2400000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 4592452.8301886804,
+		"mean_gaji_min": 3456981.1320754718,
+		"mean_gaji_max": 5727924.5283018872
+	},
+	{
+		"nama": "Pemerintah Kab. Kebumen",
+		"kode": 1502982.0,
+		"jumlah_formasi": 333,
+		"gaji_min": 228560.0,
+		"gaji_max": 3811003.0,
+		"mean_gaji": 2666347.5576923075,
+		"mean_gaji_min": 2184411.628205128,
+		"mean_gaji_max": 3148283.487179487
+	},
+	{
+		"nama": "Pemerintah Kab. Sanggau",
+		"kode": 2112640.0,
+		"jumlah_formasi": 327,
+		"gaji_min": 3500000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 4000000.0,
+		"mean_gaji_min": 3500000.0,
+		"mean_gaji_max": 4500000.0
+	},
+	{
+		"nama": "Kementerian Dalam Negeri",
+		"kode": 804268.0,
+		"jumlah_formasi": 322,
+		"gaji_min": 5437800.0,
+		"gaji_max": 80000000.0,
+		"mean_gaji": 12525575.8880597018,
+		"mean_gaji_min": 8993706.7164179105,
+		"mean_gaji_max": 16057445.0597014911
+	},
+	{
+		"nama": "Pemerintah Kab. Nias Barat",
+		"kode": 1128384.0,
+		"jumlah_formasi": 322,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6373200.0,
+		"mean_gaji": 4566521.9907407407,
+		"mean_gaji_min": 2759843.9814814813,
+		"mean_gaji_max": 6373200.0
+	},
+	{
+		"nama": "Pemerintah Kab. Deli Serdang",
+		"kode": 1367863.0,
+		"jumlah_formasi": 318,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5784784.0,
+		"mean_gaji": 4107620.3269961979,
+		"mean_gaji_min": 2683428.8973384029,
+		"mean_gaji_max": 5531811.7566539925
+	},
+	{
+		"nama": "Pemerintah Kab. Ponorogo",
+		"kode": 1683450.0,
+		"jumlah_formasi": 318,
+		"gaji_min": 285880.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 4206263.333333333,
+		"mean_gaji_min": 2670278.6046511629,
+		"mean_gaji_max": 5742248.0620155036
+	},
+	{
+		"nama": "Pemerintah Kab. Wakatobi",
+		"kode": 1829776.0,
+		"jumlah_formasi": 318,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3600092.7125506075,
+		"mean_gaji_min": 2736164.3724696361,
+		"mean_gaji_max": 4464021.0526315793
+	},
+	{
+		"nama": "Pemerintah Kab. Kapuas",
+		"kode": 1802569.0,
+		"jumlah_formasi": 317,
+		"gaji_min": 2000000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 4559479.5539033459,
+		"mean_gaji_min": 2278810.4089219333,
+		"mean_gaji_max": 6840148.6988847582
+	},
+	{
+		"nama": "Pemerintah Kab. Pemalang",
+		"kode": 1128336.0,
+		"jumlah_formasi": 317,
+		"gaji_min": 1700000.0,
+		"gaji_max": 3000000.0,
+		"mean_gaji": 2470738.6363636358,
+		"mean_gaji_min": 2228409.0909090908,
+		"mean_gaji_max": 2713068.1818181816
+	},
+	{
+		"nama": "Pemerintah Kota Semarang",
+		"kode": 1617750.0,
+		"jumlah_formasi": 307,
+		"gaji_min": 3309000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 6195386.0,
+		"mean_gaji_min": 4073236.0,
+		"mean_gaji_max": 8317536.0
+	},
+	{
+		"nama": "Pemerintah Kota Sungai Penuh",
+		"kode": 930524.0,
+		"jumlah_formasi": 306,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3688891.0179640721,
+		"mean_gaji_min": 2783586.2275449103,
+		"mean_gaji_max": 4594195.8083832338
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Timur",
+		"kode": 1097360.0,
+		"jumlah_formasi": 304,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2791860.4651162792,
+		"mean_gaji_min": 2044186.046511628,
+		"mean_gaji_max": 3539534.8837209302
+	},
+	{
+		"nama": "Kementerian Perdagangan",
+		"kode": 495116.0,
+		"jumlah_formasi": 303,
+		"gaji_min": 6369200.0,
+		"gaji_max": 8958300.0,
+		"mean_gaji": 7579455.182926829,
+		"mean_gaji_min": 7309455.182926829,
+		"mean_gaji_max": 7849455.182926829
+	},
+	{
+		"nama": "Sekretariat Jenderal DPR RI",
+		"kode": 120180.0,
+		"jumlah_formasi": 302,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6762600.0,
+		"mean_gaji": 4551513.333333333,
+		"mean_gaji_min": 2739663.333333333,
+		"mean_gaji_max": 6363363.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Yalimo",
+		"kode": 1480360.0,
+		"jumlah_formasi": 299,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3738235.2941176472,
+		"mean_gaji_min": 2805882.3529411764,
+		"mean_gaji_max": 4670588.2352941176
+	},
+	{
+		"nama": "Pemerintah Kab. Bengkulu Tengah",
+		"kode": 1115328.0,
+		"jumlah_formasi": 299,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3259114.583333333,
+		"mean_gaji_min": 2018229.1666666667,
+		"mean_gaji_max": 4500000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Sorong",
+		"kode": 1945021.0,
+		"jumlah_formasi": 299,
+		"gaji_min": 302640.0,
+		"gaji_max": 42010104.0,
+		"mean_gaji": 3659039.373303168,
+		"mean_gaji_min": 2704444.5248868777,
+		"mean_gaji_max": 4613634.2217194568
+	},
+	{
+		"nama": "Pemerintah Kab. Merangin",
+		"kode": 902656.0,
+		"jumlah_formasi": 299,
+		"gaji_min": 2184000.0,
+		"gaji_max": 6738072.0,
+		"mean_gaji": 3862456.7621951215,
+		"mean_gaji_min": 2648877.4390243902,
+		"mean_gaji_max": 5076036.0853658533
+	},
+	{
+		"nama": "Pemerintah Kab. Bandung",
+		"kode": 1685808.0,
+		"jumlah_formasi": 299,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3100000.0,
+		"mean_gaji": 2827625.1811594204,
+		"mean_gaji_min": 2723003.9855072466,
+		"mean_gaji_max": 2932246.3768115942
+	},
+	{
+		"nama": "Pemerintah Kab. Konawe",
+		"kode": 1006536.0,
+		"jumlah_formasi": 296,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3985294.1176470593,
+		"mean_gaji_min": 2981617.6470588241,
+		"mean_gaji_max": 4988970.5882352944
+	},
+	{
+		"nama": "Kementerian Kelautan dan Perikanan",
+		"kode": 301600.0,
+		"jumlah_formasi": 296,
+		"gaji_min": 5000000.0,
+		"gaji_max": 8700000.0,
+		"mean_gaji": 7082500.0,
+		"mean_gaji_min": 6858000.0,
+		"mean_gaji_max": 7307000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Karawang",
+		"kode": 1147740.0,
+		"jumlah_formasi": 294,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3311170.2127659572,
+		"mean_gaji_min": 2926595.7446808512,
+		"mean_gaji_max": 3695744.6808510642
+	},
+	{
+		"nama": "Pemerintah Kab. Sambas",
+		"kode": 1524831.0,
+		"jumlah_formasi": 291,
+		"gaji_min": 2184000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 5312613.852813853,
+		"mean_gaji_min": 2711807.7922077924,
+		"mean_gaji_max": 7913419.9134199135
+	},
+	{
+		"nama": "Pemerintah Kab. Ngawi",
+		"kode": 1474198.0,
+		"jumlah_formasi": 282,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5399900.0,
+		"mean_gaji": 3895691.8141592918,
+		"mean_gaji_min": 2677168.1415929203,
+		"mean_gaji_max": 5114215.4867256638
+	},
+	{
+		"nama": "Pemerintah Kab. Belu",
+		"kode": 1317042.0,
+		"jumlah_formasi": 280,
+		"gaji_min": 2600000.0,
+		"gaji_max": 3900000.0,
+		"mean_gaji": 3294444.4444444445,
+		"mean_gaji_min": 3133918.1286549708,
+		"mean_gaji_max": 3454970.7602339182
+	},
+	{
+		"nama": "Pemerintah Kab. Kutai Timur",
+		"kode": 1132912.0,
+		"jumlah_formasi": 280,
+		"gaji_min": 2184000.0,
+		"gaji_max": 11673594.0,
+		"mean_gaji": 5938676.3658536589,
+		"mean_gaji_min": 2682925.0,
+		"mean_gaji_max": 9194427.7317073178
+	},
+	{
+		"nama": "Pemerintah Kab. Paser",
+		"kode": 1546048.0,
+		"jumlah_formasi": 277,
+		"gaji_min": 2400000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 4414285.7142857146,
+		"mean_gaji_min": 2400000.0,
+		"mean_gaji_max": 6428571.4285714282
+	},
+	{
+		"nama": "Pemerintah Kab. Tegal",
+		"kode": 1576122.0,
+		"jumlah_formasi": 276,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6749784.0,
+		"mean_gaji": 4243473.2276422763,
+		"mean_gaji_min": 2719545.5284552844,
+		"mean_gaji_max": 5767400.9268292682
+	},
+	{
+		"nama": "Pemerintah Kab. Pulang Pisau",
+		"kode": 1549086.0,
+		"jumlah_formasi": 275,
+		"gaji_min": 2485000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 3851082.6839826838,
+		"mean_gaji_min": 2736797.4025974027,
+		"mean_gaji_max": 4965367.9653679654
+	},
+	{
+		"nama": "Pemerintah Kab. Kutai Barat",
+		"kode": 815026.0,
+		"jumlah_formasi": 273,
+		"gaji_min": 2000000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 10752118.6440677978,
+		"mean_gaji_min": 2843220.338983051,
+		"mean_gaji_max": 18661016.9491525441
+	},
+	{
+		"nama": "Pemerintah Kab. Sumbawa",
+		"kode": 1604655.0,
+		"jumlah_formasi": 270,
+		"gaji_min": 200000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 3750000.0,
+		"mean_gaji_min": 2495260.663507109,
+		"mean_gaji_max": 5004739.3364928914
+	},
+	{
+		"nama": "Pemerintah Kab. Kayong Utara",
+		"kode": 1289340.0,
+		"jumlah_formasi": 267,
+		"gaji_min": 2000000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 4264102.564102564,
+		"mean_gaji_min": 2200000.0,
+		"mean_gaji_max": 6328205.128205128
+	},
+	{
+		"nama": "Pemerintah Kab. Limapuluh Kota",
+		"kode": 756420.0,
+		"jumlah_formasi": 265,
+		"gaji_min": 2000000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 3872085.7142857146,
+		"mean_gaji_min": 2869171.4285714286,
+		"mean_gaji_max": 4875000.0
+	},
+	{
+		"nama": "Pemerintah Kota Dumai",
+		"kode": 773712.0,
+		"jumlah_formasi": 264,
+		"gaji_min": 2500000.0,
+		"gaji_max": 35000000.0,
+		"mean_gaji": 3602430.555555556,
+		"mean_gaji_min": 3527777.777777778,
+		"mean_gaji_max": 3677083.3333333335
+	},
+	{
+		"nama": "Pemerintah Kab. Ogan Komering Ulu Timur",
+		"kode": 863632.0,
+		"jumlah_formasi": 264,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3865698.0,
+		"mean_gaji": 3228906.4285714286,
+		"mean_gaji_min": 2694202.5974025973,
+		"mean_gaji_max": 3763610.25974026
+	},
+	{
+		"nama": "Pemerintah Provinsi Jawa Tengah",
+		"kode": 915200.0,
+		"jumlah_formasi": 262,
+		"gaji_min": 1988720.0,
+		"gaji_max": 8172880.0,
+		"mean_gaji": 4830569.4405594403,
+		"mean_gaji_min": 2206624.8951048949,
+		"mean_gaji_max": 7454513.9860139862
+	},
+	{
+		"nama": "Pemerintah Provinsi Kalimantan Timur",
+		"kode": 883200.0,
+		"jumlah_formasi": 261,
+		"gaji_min": 6000000.0,
+		"gaji_max": 99000000.0,
+		"mean_gaji": 23355468.75,
+		"mean_gaji_min": 11187500.0,
+		"mean_gaji_max": 35523437.5
+	},
+	{
+		"nama": "Pemerintah Kab. Muna Barat",
+		"kode": 889920.0,
+		"jumlah_formasi": 258,
+		"gaji_min": 2768920.0,
+		"gaji_max": 5126784.0,
+		"mean_gaji": 4233541.166666667,
+		"mean_gaji_min": 3400659.1666666665,
+		"mean_gaji_max": 5066423.166666667
+	},
+	{
+		"nama": "Pemerintah Daerah Daerah Istimewa Yogyakarta",
+		"kode": 1033200.0,
+		"jumlah_formasi": 256,
+		"gaji_min": 2300000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3621882.9268292682,
+		"mean_gaji_min": 2394748.7804878047,
+		"mean_gaji_max": 4849017.0731707318
+	},
+	{
+		"nama": "Pemerintah Kab. Flores Timur",
+		"kode": 1533693.0,
+		"jumlah_formasi": 255,
+		"gaji_min": 2500000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 4425879.3969849246,
+		"mean_gaji_min": 2997487.4371859296,
+		"mean_gaji_max": 5854271.35678392
+	},
+	{
+		"nama": "Pemerintah Kab. Kotawaringin Timur",
+		"kode": 1153088.0,
+		"jumlah_formasi": 255,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4606514.0,
+		"mean_gaji": 3283782.4476744188,
+		"mean_gaji_min": 2784884.3023255812,
+		"mean_gaji_max": 3782680.5930232559
+	},
+	{
+		"nama": "Pemerintah Kab. Bengkayang",
+		"kode": 1288365.0,
+		"jumlah_formasi": 254,
+		"gaji_min": 2000000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 3510256.41025641,
+		"mean_gaji_min": 2046153.8461538465,
+		"mean_gaji_max": 4974358.974358974
+	},
+	{
+		"nama": "Pemerintah Kab. Dompu",
+		"kode": 1095264.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 1000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3000000.0,
+		"mean_gaji_min": 1000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Kampar",
+		"kode": 964782.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 250000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3139423.076923077,
+		"mean_gaji_min": 2883241.7582417582,
+		"mean_gaji_max": 3395604.3956043958
+	},
+	{
+		"nama": "Pemerintah Kab. Ciamis",
+		"kode": 1295744.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3644426.1792452829,
+		"mean_gaji_min": 2762215.5660377359,
+		"mean_gaji_max": 4526636.7924528299
+	},
+	{
+		"nama": "Pemerintah Kab. Morowali",
+		"kode": 1563702.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 2184000.0,
+		"gaji_max": 31000000.0,
+		"mean_gaji": 3518111.059907834,
+		"mean_gaji_min": 3191982.4884792627,
+		"mean_gaji_max": 3844239.6313364049
+	},
+	{
+		"nama": "Badan Meteorologi, Klimatologi dan Geofisika",
+		"kode": 351045.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 4000000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 6940229.8850574717,
+		"mean_gaji_min": 5448275.8620689651,
+		"mean_gaji_max": 8432183.9080459774
+	},
+	{
+		"nama": "Pemerintah Kab. Banggai",
+		"kode": 1476820.0,
+		"jumlah_formasi": 250,
+		"gaji_min": 2116900.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 4152754.146341464,
+		"mean_gaji_min": 3154421.9512195121,
+		"mean_gaji_max": 5151086.341463415
+	},
+	{
+		"nama": "Pemerintah Kota Pekanbaru",
+		"kode": 1235330.0,
+		"jumlah_formasi": 249,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2863043.4782608696,
+		"mean_gaji_min": 2363043.4782608696,
+		"mean_gaji_max": 3363043.4782608696
+	},
+	{
+		"nama": "Pemerintah Kab. Jember",
+		"kode": 1002848.0,
+		"jumlah_formasi": 249,
+		"gaji_min": 2635900.0,
+		"gaji_max": 4117700.0,
+		"mean_gaji": 3273035.7142857146,
+		"mean_gaji_min": 2974101.2987012989,
+		"mean_gaji_max": 3571970.1298701297
+	},
+	{
+		"nama": "Pemerintah Kab. Magelang",
+		"kode": 1027040.0,
+		"jumlah_formasi": 247,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3300000.0,
+		"mean_gaji": 2673750.0,
+		"mean_gaji_min": 2498750.0,
+		"mean_gaji_max": 2848750.0
+	},
+	{
+		"nama": "Pemerintah Kab. Musi Rawas",
+		"kode": 823935.0,
+		"jumlah_formasi": 246,
+		"gaji_min": 1740000.0,
+		"gaji_max": 13000000.0,
+		"mean_gaji": 3410198.0952380951,
+		"mean_gaji_min": 2194545.8503401359,
+		"mean_gaji_max": 4625850.340136054
+	},
+	{
+		"nama": "Pemerintah Kota Tegal",
+		"kode": 1469598.0,
+		"jumlah_formasi": 244,
+		"gaji_min": 2558350.0,
+		"gaji_max": 5636400.0,
+		"mean_gaji": 3966796.9162995592,
+		"mean_gaji_min": 2832718.2819383261,
+		"mean_gaji_max": 5100875.5506607927
+	},
+	{
+		"nama": "Pemerintah Kota Lhokseumawe",
+		"kode": 646750.0,
+		"jumlah_formasi": 244,
+		"gaji_min": 2000000.0,
+		"gaji_max": 45575200.0,
+		"mean_gaji": 3985473.6000000001,
+		"mean_gaji_min": 2857669.6000000001,
+		"mean_gaji_max": 5113277.5999999996
+	},
+	{
+		"nama": "Pemerintah Kab. Nunukan",
+		"kode": 1781436.0,
+		"jumlah_formasi": 240,
+		"gaji_min": 2022200.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 3822337.7358490559,
+		"mean_gaji_min": 2669675.4716981133,
+		"mean_gaji_max": 4975000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Penajam Paser Utara",
+		"kode": 1036500.0,
+		"jumlah_formasi": 236,
+		"gaji_min": 339100.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 4260406.666666666,
+		"mean_gaji_min": 2842132.0,
+		"mean_gaji_max": 5678681.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Sarolangun",
+		"kode": 985574.0,
+		"jumlah_formasi": 235,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4058669.0,
+		"mean_gaji": 3274680.3212290504,
+		"mean_gaji_min": 2722488.2681564246,
+		"mean_gaji_max": 3826872.3743016762
+	},
+	{
+		"nama": "Pemerintah Kab. Konawe Selatan",
+		"kode": 1155180.0,
+		"jumlah_formasi": 235,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3703600.0,
+		"mean_gaji": 3170085.576923077,
+		"mean_gaji_min": 2769707.6923076925,
+		"mean_gaji_max": 3570463.461538461
+	},
+	{
+		"nama": "Pemerintah Kab. Sintang",
+		"kode": 1426248.0,
+		"jumlah_formasi": 233,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3578281.7129629627,
+		"mean_gaji_min": 2723492.5925925928,
+		"mean_gaji_max": 4433070.833333333
+	},
+	{
+		"nama": "Setjen Dewan Perwakilan Daerah",
+		"kode": 141750.0,
+		"jumlah_formasi": 227,
+		"gaji_min": 8879760.0,
+		"gaji_max": 13332000.0,
+		"mean_gaji": 11039592.8571428582,
+		"mean_gaji_min": 9812971.4285714291,
+		"mean_gaji_max": 12266214.2857142836
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Meranti",
+		"kode": 520674.0,
+		"jumlah_formasi": 225,
+		"gaji_min": 300000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4815816.3265306121,
+		"mean_gaji_min": 2963265.3061224488,
+		"mean_gaji_max": 6668367.3469387759
+	},
+	{
+		"nama": "Pemerintah Kab. Kaimana",
+		"kode": 1050624.0,
+		"jumlah_formasi": 225,
+		"gaji_min": 2300000.0,
+		"gaji_max": 2800000.0,
+		"mean_gaji": 2604687.5,
+		"mean_gaji_min": 2454687.5,
+		"mean_gaji_max": 2754687.5
+	},
+	{
+		"nama": "Pemerintah Kota Surakarta",
+		"kode": 1198060.0,
+		"jumlah_formasi": 225,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3711300.0,
+		"mean_gaji": 3098532.702702703,
+		"mean_gaji_min": 2711446.4864864866,
+		"mean_gaji_max": 3485618.9189189188
+	},
+	{
+		"nama": "Pemerintah Kab. Tanjung Jabung Barat",
+		"kode": 995862.0,
+		"jumlah_formasi": 224,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3500000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Magetan",
+		"kode": 1115604.0,
+		"jumlah_formasi": 223,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5400000.0,
+		"mean_gaji": 3788571.34502924,
+		"mean_gaji_min": 2771038.0116959065,
+		"mean_gaji_max": 4806104.6783625735
+	},
+	{
+		"nama": "Pemerintah Kab. Melawi",
+		"kode": 1348236.0,
+		"jumlah_formasi": 223,
+		"gaji_min": 2100000.0,
+		"gaji_max": 20000000.0,
+		"mean_gaji": 3573039.2156862747,
+		"mean_gaji_min": 2464705.8823529412,
+		"mean_gaji_max": 4681372.5490196077
+	},
+	{
+		"nama": "Pemerintah Kab. Balangan",
+		"kode": 1171492.0,
+		"jumlah_formasi": 220,
+		"gaji_min": 216900.0,
+		"gaji_max": 40836000.0,
+		"mean_gaji": 5335811.6104651168,
+		"mean_gaji_min": 2637072.0930232559,
+		"mean_gaji_max": 8034551.1279069772
+	},
+	{
+		"nama": "Pemerintah Kab. Mamuju Tengah",
+		"kode": 1162840.0,
+		"jumlah_formasi": 217,
+		"gaji_min": 1000000.0,
+		"gaji_max": 28000000.0,
+		"mean_gaji": 3692857.1428571432,
+		"mean_gaji_min": 1271428.5714285714,
+		"mean_gaji_max": 6114285.7142857146
+	},
+	{
+		"nama": "Pemerintah Kota Bengkulu",
+		"kode": 692778.0,
+		"jumlah_formasi": 213,
+		"gaji_min": 1500.0,
+		"gaji_max": 3203600.0,
+		"mean_gaji": 2623670.7627118644,
+		"mean_gaji_min": 2514943.220338983,
+		"mean_gaji_max": 2732398.3050847459
+	},
+	{
+		"nama": "Pemerintah Kab. Tanah Bumbu",
+		"kode": 817200.0,
+		"jumlah_formasi": 212,
+		"gaji_min": 2300000.0,
+		"gaji_max": 4800000.0,
+		"mean_gaji": 3657916.6666666665,
+		"mean_gaji_min": 2782500.0,
+		"mean_gaji_max": 4533333.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Sumba Barat Daya",
+		"kode": 1234720.0,
+		"jumlah_formasi": 211,
+		"gaji_min": 3000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 4060625.0,
+		"mean_gaji_min": 3241250.0,
+		"mean_gaji_max": 4880000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Kapuas Hulu",
+		"kode": 1340815.0,
+		"jumlah_formasi": 206,
+		"gaji_min": 2485000.0,
+		"gaji_max": 3403600.0,
+		"mean_gaji": 2928534.4827586208,
+		"mean_gaji_min": 2678533.9901477834,
+		"mean_gaji_max": 3178534.9753694581
+	},
+	{
+		"nama": "Pemerintah Kab. Belitung Timur",
+		"kode": 964314.0,
+		"jumlah_formasi": 205,
+		"gaji_min": 2200000.0,
+		"gaji_max": 32000000.0,
+		"mean_gaji": 3266157.3964497042,
+		"mean_gaji_min": 2615373.9644970414,
+		"mean_gaji_max": 3916940.828402367
+	},
+	{
+		"nama": "Pemerintah Kab. Musi Banyuasin",
+		"kode": 649716.0,
+		"jumlah_formasi": 205,
+		"gaji_min": 2485900.0,
+		"gaji_max": 31438600.0,
+		"mean_gaji": 4839595.2586206896,
+		"mean_gaji_min": 2837000.0,
+		"mean_gaji_max": 6842190.5172413792
+	},
+	{
+		"nama": "Pemerintah Kab. Halmahera Tengah",
+		"kode": 1185300.0,
+		"jumlah_formasi": 205,
+		"gaji_min": 1000000.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 3486905.333333333,
+		"mean_gaji_min": 2542598.6666666665,
+		"mean_gaji_max": 4431212.0
+	},
+	{
+		"nama": "Pemerintah Kab. Klungkung",
+		"kode": 1095438.0,
+		"jumlah_formasi": 203,
+		"gaji_min": 2485900.0,
+		"gaji_max": 8239600.0,
+		"mean_gaji": 4670059.5890410962,
+		"mean_gaji_min": 2746340.4109589043,
+		"mean_gaji_max": 6593778.7671232875
+	},
+	{
+		"nama": "Pemerintah Kota Palu",
+		"kode": 974314.0,
+		"jumlah_formasi": 202,
+		"gaji_min": 2576420.0,
+		"gaji_max": 4139784.0,
+		"mean_gaji": 3483687.3582089557,
+		"mean_gaji_min": 3183881.1940298509,
+		"mean_gaji_max": 3783493.5223880601
+	},
+	{
+		"nama": "Pemerintah Kab. Katingan",
+		"kode": 926118.0,
+		"jumlah_formasi": 201,
+		"gaji_min": 2858800.0,
+		"gaji_max": 43434278.0,
+		"mean_gaji": 5391164.5471014492,
+		"mean_gaji_min": 3099899.2753623188,
+		"mean_gaji_max": 7682429.8188405801
+	},
+	{
+		"nama": "Pemerintah Kab. Sumbawa Barat",
+		"kode": 600953.0,
+		"jumlah_formasi": 200,
+		"gaji_min": 2000000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4212025.3164556958,
+		"mean_gaji_min": 2683544.3037974685,
+		"mean_gaji_max": 5740506.3291139239
+	},
+	{
+		"nama": "Pemerintah Kota Palopo",
+		"kode": 663570.0,
+		"jumlah_formasi": 200,
+		"gaji_min": 2485900.0,
+		"gaji_max": 7542040.0,
+		"mean_gaji": 3923050.0,
+		"mean_gaji_min": 2782311.111111111,
+		"mean_gaji_max": 5063788.888888889
+	},
+	{
+		"nama": "Pemerintah Kab. Polewali Mandar",
+		"kode": 871920.0,
+		"jumlah_formasi": 200,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3692145.2380952379,
+		"mean_gaji_min": 2799675.2380952379,
+		"mean_gaji_max": 4584615.2380952379
+	},
+	{
+		"nama": "Pemerintah Kab. Bolaang Mongondow",
+		"kode": 1134324.0,
+		"jumlah_formasi": 200,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4970500.0,
+		"mean_gaji": 3720016.666666667,
+		"mean_gaji_min": 2788072.839506173,
+		"mean_gaji_max": 4651960.4938271604
+	},
+	{
+		"nama": "Pemerintah Kab. Garut",
+		"kode": 1154790.0,
+		"jumlah_formasi": 200,
+		"gaji_min": 2500000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4229912.9629629627,
+		"mean_gaji_min": 2842565.6084656087,
+		"mean_gaji_max": 5617260.3174603172
+	},
+	{
+		"nama": "Pemerintah Kab. Buru",
+		"kode": 405756.0,
+		"jumlah_formasi": 199,
+		"gaji_min": 3000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3524038.461538461,
+		"mean_gaji_min": 3028846.153846154,
+		"mean_gaji_max": 4019230.769230769
+	},
+	{
+		"nama": "Pemerintah Kab. Toraja Utara",
+		"kode": 1186812.0,
+		"jumlah_formasi": 199,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3461100.0,
+		"mean_gaji": 2868831.1728395065,
+		"mean_gaji_min": 2738014.1975308643,
+		"mean_gaji_max": 2999648.1481481483
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Sangihe",
+		"kode": 973417.0,
+		"jumlah_formasi": 198,
+		"gaji_min": 1980720.0,
+		"gaji_max": 3322880.0,
+		"mean_gaji": 2610955.6834532376,
+		"mean_gaji_min": 2121014.6762589929,
+		"mean_gaji_max": 3100896.6906474819
+	},
+	{
+		"nama": "Pemerintah Kab. Seram Bagian Timur",
+		"kode": 1514558.0,
+		"jumlah_formasi": 198,
+		"gaji_min": 2300000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 3238402.0618556701,
+		"mean_gaji_min": 2438144.3298969078,
+		"mean_gaji_max": 4038659.7938144328
+	},
+	{
+		"nama": "Pemerintah Kab. Konawe Kepulauan",
+		"kode": 496671.0,
+		"jumlah_formasi": 198,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3447761.1940298509,
+		"mean_gaji_min": 2947761.1940298509,
+		"mean_gaji_max": 3947761.1940298509
+	},
+	{
+		"nama": "Pemerintah Kab. Nabire",
+		"kode": 1272948.0,
+		"jumlah_formasi": 198,
+		"gaji_min": 2300000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3276689.1891891891,
+		"mean_gaji_min": 2844594.5945945946,
+		"mean_gaji_max": 3708783.7837837841
+	},
+	{
+		"nama": "Komisi Pemberantasan Korupsi",
+		"kode": 182115.0,
+		"jumlah_formasi": 198,
+		"gaji_min": 6000000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 8544444.444444444,
+		"mean_gaji_min": 7555555.555555556,
+		"mean_gaji_max": 9533333.333333334
+	},
+	{
+		"nama": "Pemerintah Kab. Kuantan Singingi",
+		"kode": 674624.0,
+		"jumlah_formasi": 196,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5484000.0,
+		"mean_gaji": 4181933.8582677166,
+		"mean_gaji_min": 3201241.7322834646,
+		"mean_gaji_max": 5162625.9842519686
+	},
+	{
+		"nama": "Pemerintah Provinsi Bengkulu",
+		"kode": 568400.0,
+		"jumlah_formasi": 193,
+		"gaji_min": 1000000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 2852040.8163265307,
+		"mean_gaji_min": 2051020.4081632651,
+		"mean_gaji_max": 3653061.224489796
+	},
+	{
+		"nama": "Pemerintah Kab. Sumedang",
+		"kode": 678099.0,
+		"jumlah_formasi": 192,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3026400.0,
+		"mean_gaji": 2757005.405405405,
+		"mean_gaji_min": 2757005.405405405,
+		"mean_gaji_max": 2757005.405405405
+	},
+	{
+		"nama": "Badan Nasional Penanggulangan Terorisme",
+		"kode": 369460.0,
+		"jumlah_formasi": 190,
+		"gaji_min": 5500000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 6631868.1318681315,
+		"mean_gaji_min": 5719780.2197802197,
+		"mean_gaji_max": 7543956.0439560441
+	},
+	{
+		"nama": "Pemerintah Kota Makassar",
+		"kode": 906633.0,
+		"jumlah_formasi": 186,
+		"gaji_min": 3000000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 5113821.1382113826,
+		"mean_gaji_min": 4065040.650406504,
+		"mean_gaji_max": 6162601.6260162601
+	},
+	{
+		"nama": "Pemerintah Provinsi Sumatera Selatan",
+		"kode": 795200.0,
+		"jumlah_formasi": 185,
+		"gaji_min": 1800000.0,
+		"gaji_max": 5950000.0,
+		"mean_gaji": 4061267.6056338022,
+		"mean_gaji_min": 2270070.4225352118,
+		"mean_gaji_max": 5852464.7887323946
+	},
+	{
+		"nama": "Pemerintah Kota Pagar Alam",
+		"kode": 748704.0,
+		"jumlah_formasi": 183,
+		"gaji_min": 2647200.0,
+		"gaji_max": 20000000.0,
+		"mean_gaji": 5352109.4696969697,
+		"mean_gaji_min": 2901188.6363636358,
+		"mean_gaji_max": 7803030.3030303027
+	},
+	{
+		"nama": "Pemerintah Kab. Sekadau",
+		"kode": 713880.0,
+		"jumlah_formasi": 182,
+		"gaji_min": 250000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4613657.4074074076,
+		"mean_gaji_min": 2755092.5925925928,
+		"mean_gaji_max": 6472222.222222222
+	},
+	{
+		"nama": "Pemerintah Kab. Batang",
+		"kode": 1076208.0,
+		"jumlah_formasi": 181,
+		"gaji_min": 2485900.0,
+		"gaji_max": 25000000.0,
+		"mean_gaji": 3570877.083333333,
+		"mean_gaji_min": 2703572.6190476189,
+		"mean_gaji_max": 4438181.5476190476
+	},
+	{
+		"nama": "Pemerintah Kab. Karanganyar",
+		"kode": 912776.0,
+		"jumlah_formasi": 181,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3700000.0,
+		"mean_gaji": 2505633.8028169014,
+		"mean_gaji_min": 2223239.4366197181,
+		"mean_gaji_max": 2788028.1690140846
+	},
+	{
+		"nama": "Pemerintah Kab. Blora",
+		"kode": 840234.0,
+		"jumlah_formasi": 180,
+		"gaji_min": 2485900.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2721003.816793893,
+		"mean_gaji_min": 2721003.816793893,
+		"mean_gaji_max": 2721003.816793893
+	},
+	{
+		"nama": "Pemerintah Kab. Waropen",
+		"kode": 874834.0,
+		"jumlah_formasi": 180,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 2940366.972477064,
+		"mean_gaji_min": 2022935.7798165136,
+		"mean_gaji_max": 3857798.1651376151
+	},
+	{
+		"nama": "Pemerintah Kota Pariaman",
+		"kode": 569608.0,
+		"jumlah_formasi": 175,
+		"gaji_min": 2000000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 3687019.230769231,
+		"mean_gaji_min": 2619230.769230769,
+		"mean_gaji_max": 4754807.692307692
+	},
+	{
+		"nama": "Pemerintah Kab. Tapanuli Selatan",
+		"kode": 703215.0,
+		"jumlah_formasi": 172,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5866400.0,
+		"mean_gaji": 3898209.6296296297,
+		"mean_gaji_min": 2751297.0370370368,
+		"mean_gaji_max": 5045122.222222222
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Siau Tagulandang Biaro",
+		"kode": 798912.0,
+		"jumlah_formasi": 171,
+		"gaji_min": 2485900.0,
+		"gaji_max": 29349784.0,
+		"mean_gaji": 6658743.1403508773,
+		"mean_gaji_min": 2732778.9473684211,
+		"mean_gaji_max": 10584707.333333334
+	},
+	{
+		"nama": "Lembaga Perlindungan Saksi dan Korban",
+		"kode": 146340.0,
+		"jumlah_formasi": 168,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6100000.0,
+		"mean_gaji": 4412500.0,
+		"mean_gaji_min": 3025000.0,
+		"mean_gaji_max": 5800000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bungo",
+		"kode": 808941.0,
+		"jumlah_formasi": 168,
+		"gaji_min": 203600.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 5463841.8367346935,
+		"mean_gaji_min": 3241366.6666666665,
+		"mean_gaji_max": 7686317.0068027209
+	},
+	{
+		"nama": "Pemerintah Kab. Brebes",
+		"kode": 929160.0,
+		"jumlah_formasi": 167,
+		"gaji_min": 1747200.0,
+		"gaji_max": 3652104.0,
+		"mean_gaji": 2650677.5241379309,
+		"mean_gaji_min": 2186125.7931034481,
+		"mean_gaji_max": 3115229.2551724138
+	},
+	{
+		"nama": "Pemerintah Kab. Karangasem",
+		"kode": 1035690.0,
+		"jumlah_formasi": 165,
+		"gaji_min": 3100000.0,
+		"gaji_max": 4200000.0,
+		"mean_gaji": 3777536.2318840581,
+		"mean_gaji_min": 3527536.2318840581,
+		"mean_gaji_max": 4027536.2318840581
+	},
+	{
+		"nama": "Pemerintah Kab. Asahan",
+		"kode": 781500.0,
+		"jumlah_formasi": 163,
+		"gaji_min": 2200000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3562000.0,
+		"mean_gaji_min": 2945333.333333333,
+		"mean_gaji_max": 4178666.6666666665
+	},
+	{
+		"nama": "Pemerintah Kab. Kotawaringin Barat",
+		"kode": 824715.0,
+		"jumlah_formasi": 160,
+		"gaji_min": 2100000.0,
+		"gaji_max": 3600000.0,
+		"mean_gaji": 2744715.4471544721,
+		"mean_gaji_min": 2644715.4471544721,
+		"mean_gaji_max": 2844715.4471544721
+	},
+	{
+		"nama": "Pemerintah Kab. Gianyar",
+		"kode": 697872.0,
+		"jumlah_formasi": 159,
+		"gaji_min": 2400000.0,
+		"gaji_max": 5900000.0,
+		"mean_gaji": 4433870.9677419364,
+		"mean_gaji_min": 3051612.9032258065,
+		"mean_gaji_max": 5816129.0322580645
+	},
+	{
+		"nama": "Pemerintah Kab. Bireuen",
+		"kode": 454790.0,
+		"jumlah_formasi": 159,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3062921.3483146066,
+		"mean_gaji_min": 2804494.3820224721,
+		"mean_gaji_max": 3321348.3146067411
+	},
+	{
+		"nama": "Pemerintah Kab. Pulau Morotai",
+		"kode": 1012096.0,
+		"jumlah_formasi": 159,
+		"gaji_min": 2485500.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 4321872.03125,
+		"mean_gaji_min": 2767691.03125,
+		"mean_gaji_max": 5876053.03125
+	},
+	{
+		"nama": "Pemerintah Kab. Parigi Moutong",
+		"kode": 1066784.0,
+		"jumlah_formasi": 159,
+		"gaji_min": 500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3572909.2432432431,
+		"mean_gaji_min": 2520035.8108108109,
+		"mean_gaji_max": 4625782.6756756753
+	},
+	{
+		"nama": "Pemerintah Provinsi Maluku",
+		"kode": 787800.0,
+		"jumlah_formasi": 158,
+		"gaji_min": 2900000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 3823762.3762376239,
+		"mean_gaji_min": 3233663.366336633,
+		"mean_gaji_max": 4413861.3861386143
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Anambas",
+		"kode": 932075.0,
+		"jumlah_formasi": 158,
+		"gaji_min": 2485900.0,
+		"gaji_max": 63000000.0,
+		"mean_gaji": 6740971.3043478262,
+		"mean_gaji_min": 2775800.8695652173,
+		"mean_gaji_max": 10706141.7391304355
+	},
+	{
+		"nama": "Pemerintah Kab. Nagan Raya",
+		"kode": 618915.0,
+		"jumlah_formasi": 156,
+		"gaji_min": 2600000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3571900.8264462808,
+		"mean_gaji_min": 3284297.5206611571,
+		"mean_gaji_max": 3859504.132231405
+	},
+	{
+		"nama": "Pemerintah Kab. Indragiri Hilir",
+		"kode": 668430.0,
+		"jumlah_formasi": 154,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4300000.0,
+		"mean_gaji": 3208333.333333333,
+		"mean_gaji_min": 2700000.0,
+		"mean_gaji_max": 3716666.6666666665
+	},
+	{
+		"nama": "Pemerintah Kota Palembang",
+		"kode": 737230.0,
+		"jumlah_formasi": 154,
+		"gaji_min": 3171220.0,
+		"gaji_max": 7737763.0,
+		"mean_gaji": 7072594.326923077,
+		"mean_gaji_min": 6951367.846153846,
+		"mean_gaji_max": 7193820.807692308
+	},
+	{
+		"nama": "Badan Pangan Nasional",
+		"kode": 264420.0,
+		"jumlah_formasi": 152,
+		"gaji_min": 3000000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 4615384.615384616,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 6230769.230769231
+	},
+	{
+		"nama": "Pemerintah Kab. Tebo",
+		"kode": 600263.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3062441.4954128438,
+		"mean_gaji_min": 2724124.7706422019,
+		"mean_gaji_max": 3400758.2201834861
+	},
+	{
+		"nama": "Pemerintah Kab. Mukomuko",
+		"kode": 673496.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3000000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Ogan Ilir",
+		"kode": 824670.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 3029507.0,
+		"gaji_max": 4280268.0,
+		"mean_gaji": 3642701.1258503408,
+		"mean_gaji_min": 3345018.108843537,
+		"mean_gaji_max": 3940384.1428571432
+	},
+	{
+		"nama": "Pemerintah Kab. Grobogan",
+		"kode": 928580.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3544827.5862068962,
+		"mean_gaji_min": 2989655.1724137929,
+		"mean_gaji_max": 4100000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Cilacap",
+		"kode": 911072.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2700000.0,
+		"gaji_max": 3900000.0,
+		"mean_gaji": 3358450.704225352,
+		"mean_gaji_min": 3109154.9295774647,
+		"mean_gaji_max": 3607746.4788732398
+	},
+	{
+		"nama": "Pemerintah Kab. Bangka",
+		"kode": 598605.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5903600.0,
+		"mean_gaji": 3740031.4285714282,
+		"mean_gaji_min": 2722865.7142857141,
+		"mean_gaji_max": 4757197.1428571427
+	},
+	{
+		"nama": "Pemerintah Kab. Hulu Sungai Tengah",
+		"kode": 939090.0,
+		"jumlah_formasi": 150,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5422378.0,
+		"mean_gaji": 3897369.2028985508,
+		"mean_gaji_min": 2668326.086956522,
+		"mean_gaji_max": 5126412.3188405801
+	},
+	{
+		"nama": "Pemerintah Kota Cimahi",
+		"kode": 636231.0,
+		"jumlah_formasi": 149,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 3518301.9417475723,
+		"mean_gaji_min": 2695468.9320388348,
+		"mean_gaji_max": 4341134.9514563102
+	},
+	{
+		"nama": "Pemerintah Kab. Seruyan",
+		"kode": 711472.0,
+		"jumlah_formasi": 149,
+		"gaji_min": 3000000.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 4766509.4339622641,
+		"mean_gaji_min": 3863207.5471698111,
+		"mean_gaji_max": 5669811.3207547171
+	},
+	{
+		"nama": "Pemerintah Kab. Tapin",
+		"kode": 925208.0,
+		"jumlah_formasi": 149,
+		"gaji_min": 2500000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 4075551.4705882352,
+		"mean_gaji_min": 2738602.9411764704,
+		"mean_gaji_max": 5412500.0
+	},
+	{
+		"nama": "Pemerintah Kab. Ketapang",
+		"kode": 865386.0,
+		"jumlah_formasi": 148,
+		"gaji_min": 2500000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 4196564.8854961833,
+		"mean_gaji_min": 2874045.8015267174,
+		"mean_gaji_max": 5519083.9694656488
+	},
+	{
+		"nama": "Pemerintah Kab. Semarang",
+		"kode": 729714.0,
+		"jumlah_formasi": 147,
+		"gaji_min": 2485900.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2623685.0877192984,
+		"mean_gaji_min": 2623685.0877192984,
+		"mean_gaji_max": 2623685.0877192984
+	},
+	{
+		"nama": "Pemerintah Kab. Kediri",
+		"kode": 853727.0,
+		"jumlah_formasi": 147,
+		"gaji_min": 1938500.0,
+		"gaji_max": 6867360.0,
+		"mean_gaji": 3736123.2061068704,
+		"mean_gaji_min": 2186753.8931297711,
+		"mean_gaji_max": 5285492.5190839693
+	},
+	{
+		"nama": "Pemerintah Kab. Hulu Sungai Selatan",
+		"kode": 775656.0,
+		"jumlah_formasi": 147,
+		"gaji_min": 2300000.0,
+		"gaji_max": 34000000.0,
+		"mean_gaji": 5735957.8947368423,
+		"mean_gaji_min": 2926133.333333333,
+		"mean_gaji_max": 8545782.4561403506
+	},
+	{
+		"nama": "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus",
+		"kode": 358160.0,
+		"jumlah_formasi": 147,
+		"gaji_min": 700000.0,
+		"gaji_max": 9500000.0,
+		"mean_gaji": 7752272.7272727266,
+		"mean_gaji_min": 6834090.9090909092,
+		"mean_gaji_max": 8670454.5454545449
+	},
+	{
+		"nama": "Pemerintah Kab. Hulu Sungai Utara",
+		"kode": 939642.0,
+		"jumlah_formasi": 146,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3992753.6231884062,
+		"mean_gaji_min": 2992753.6231884058,
+		"mean_gaji_max": 4992753.6231884062
+	},
+	{
+		"nama": "Pemerintah Kab. Sleman",
+		"kode": 762542.0,
+		"jumlah_formasi": 143,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3142561.9834710746,
+		"mean_gaji_min": 2892561.9834710746,
+		"mean_gaji_max": 3392561.9834710746
+	},
+	{
+		"nama": "Sekretariat Jenderal Komisi Yudisial",
+		"kode": 214597.0,
+		"jumlah_formasi": 142,
+		"gaji_min": 5000000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 7754716.9811320752,
+		"mean_gaji_min": 6754716.9811320752,
+		"mean_gaji_max": 8754716.9811320752
+	},
+	{
+		"nama": "Badan Pemeriksa Keuangan",
+		"kode": 180360.0,
+		"jumlah_formasi": 140,
+		"gaji_min": 15000000.0,
+		"gaji_max": 19000000.0,
+		"mean_gaji": 18366666.6666666679,
+		"mean_gaji_min": 17866666.6666666679,
+		"mean_gaji_max": 18866666.6666666679
+	},
+	{
+		"nama": "Pemerintah Kab. Sampang",
+		"kode": 787105.0,
+		"jumlah_formasi": 140,
+		"gaji_min": 1988720.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 2477670.9834710746,
+		"mean_gaji_min": 2150401.9834710746,
+		"mean_gaji_max": 2804939.9834710746
+	},
+	{
+		"nama": "Pemerintah Kab. Sarmi",
+		"kode": 537273.0,
+		"jumlah_formasi": 140,
+		"gaji_min": 2300000.0,
+		"gaji_max": 38000000.0,
+		"mean_gaji": 3232835.8208955224,
+		"mean_gaji_min": 2643283.5820895522,
+		"mean_gaji_max": 3822388.059701493
+	},
+	{
+		"nama": "Pemerintah Kota Banjar",
+		"kode": 667332.0,
+		"jumlah_formasi": 140,
+		"gaji_min": 2858800.0,
+		"gaji_max": 3700000.0,
+		"mean_gaji": 3296779.6296296297,
+		"mean_gaji_min": 3133374.0740740742,
+		"mean_gaji_max": 3460185.1851851852
+	},
+	{
+		"nama": "Pemerintah Kab. Buleleng",
+		"kode": 480064.0,
+		"jumlah_formasi": 140,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 3989062.5,
+		"mean_gaji_min": 2950000.0,
+		"mean_gaji_max": 5028125.0
+	},
+	{
+		"nama": "Badan Siber dan Sandi Negara",
+		"kode": 176440.0,
+		"jumlah_formasi": 139,
+		"gaji_min": 2665900.0,
+		"gaji_max": 8660850.0,
+		"mean_gaji": 5197389.2045454541,
+		"mean_gaji_min": 2909413.6363636358,
+		"mean_gaji_max": 7485364.7727272715
+	},
+	{
+		"nama": "Pemerintah Provinsi Nusa Tenggara Barat",
+		"kode": 972800.0,
+		"jumlah_formasi": 138,
+		"gaji_min": 2500000.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 7550781.25,
+		"mean_gaji_min": 4632812.5,
+		"mean_gaji_max": 10468750.0
+	},
+	{
+		"nama": "Pemerintah Kab. Barru",
+		"kode": 855972.0,
+		"jumlah_formasi": 138,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3900000.0,
+		"mean_gaji": 2783760.683760684,
+		"mean_gaji_min": 2278632.4786324785,
+		"mean_gaji_max": 3288888.888888889
+	},
+	{
+		"nama": "Pemerintah Kab. Timor Tengah Utara",
+		"kode": 785706.0,
+		"jumlah_formasi": 135,
+		"gaji_min": 2100000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 3768279.411764706,
+		"mean_gaji_min": 2757147.0588235296,
+		"mean_gaji_max": 4779411.7647058824
+	},
+	{
+		"nama": "Pemerintah Kota Kupang",
+		"kode": 707161.0,
+		"jumlah_formasi": 135,
+		"gaji_min": 2000000.0,
+		"gaji_max": 45000000.0,
+		"mean_gaji": 4241758.2417582422,
+		"mean_gaji_min": 2203296.7032967038,
+		"mean_gaji_max": 6280219.7802197803
+	},
+	{
+		"nama": "Kementerian Koperasi dan Usaha Kecil dan Menengah",
+		"kode": 154770.0,
+		"jumlah_formasi": 133,
+		"gaji_min": 5598900.0,
+		"gaji_max": 9710350.0,
+		"mean_gaji": 7886615.5844155848,
+		"mean_gaji_min": 6696603.8961038962,
+		"mean_gaji_max": 9076627.2727272715
+	},
+	{
+		"nama": "Pemerintah Kota Bima",
+		"kode": 759528.0,
+		"jumlah_formasi": 131,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3892929.2929292927,
+		"mean_gaji_min": 2991919.1919191922,
+		"mean_gaji_max": 4793939.3939393936
+	},
+	{
+		"nama": "Perpustakaan Nasional RI",
+		"kode": 289800.0,
+		"jumlah_formasi": 130,
+		"gaji_min": 6260320.0,
+		"gaji_max": 8253404.0,
+		"mean_gaji": 7252034.75,
+		"mean_gaji_min": 7090290.833333333,
+		"mean_gaji_max": 7413778.666666667
+	},
+	{
+		"nama": "Pemerintah Kab. Sabu Raijua",
+		"kode": 633040.0,
+		"jumlah_formasi": 130,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2713414.6341463416,
+		"mean_gaji_min": 2018292.6829268287,
+		"mean_gaji_max": 3408536.5853658537
+	},
+	{
+		"nama": "Pemerintah Kab. Pulau Taliabu",
+		"kode": 450756.0,
+		"jumlah_formasi": 130,
+		"gaji_min": 3000000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 4052631.578947369,
+		"mean_gaji_min": 3298245.6140350881,
+		"mean_gaji_max": 4807017.5438596494
+	},
+	{
+		"nama": "Pemerintah Kab. Banggai Laut",
+		"kode": 735522.0,
+		"jumlah_formasi": 125,
+		"gaji_min": 2500000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 3752450.9803921566,
+		"mean_gaji_min": 2931372.5490196082,
+		"mean_gaji_max": 4573529.4117647056
+	},
+	{
+		"nama": "Pemerintah Kab. Purwakarta",
+		"kode": 708296.0,
+		"jumlah_formasi": 125,
+		"gaji_min": 2184000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 5642560.8793103443,
+		"mean_gaji_min": 2673358.6206896552,
+		"mean_gaji_max": 8611763.137931034
+	},
+	{
+		"nama": "Pemerintah Provinsi Kalimantan Selatan",
+		"kode": 244800.0,
+		"jumlah_formasi": 125,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3703408.333333333,
+		"mean_gaji_min": 2573483.333333333,
+		"mean_gaji_max": 4833333.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Agam",
+		"kode": 664323.0,
+		"jumlah_formasi": 125,
+		"gaji_min": 304312.0,
+		"gaji_max": 4481784.0,
+		"mean_gaji": 3323009.4634146346,
+		"mean_gaji_min": 2972815.0569105693,
+		"mean_gaji_max": 3673203.8699186994
+	},
+	{
+		"nama": "Pemerintah Kab. Indramayu",
+		"kode": 519775.0,
+		"jumlah_formasi": 123,
+		"gaji_min": 2325600.0,
+		"gaji_max": 5078000.0,
+		"mean_gaji": 3646870.588235294,
+		"mean_gaji_min": 2761411.7647058824,
+		"mean_gaji_max": 4532329.4117647056
+	},
+	{
+		"nama": "Pemerintah Kota Cirebon",
+		"kode": 635922.0,
+		"jumlah_formasi": 123,
+		"gaji_min": 2100000.0,
+		"gaji_max": 3300000.0,
+		"mean_gaji": 2858252.4271844663,
+		"mean_gaji_min": 2660194.1747572818,
+		"mean_gaji_max": 3056310.6796116503
+	},
+	{
+		"nama": "Pemerintah Kota Padangsidimpuan",
+		"kode": 480207.0,
+		"jumlah_formasi": 121,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2782967.0329670329,
+		"mean_gaji_min": 2296703.2967032967,
+		"mean_gaji_max": 3269230.769230769
+	},
+	{
+		"nama": "Pemerintah Kab. Bangkalan",
+		"kode": 533656.0,
+		"jumlah_formasi": 120,
+		"gaji_min": 2300000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3724390.2439024388,
+		"mean_gaji_min": 2497560.9756097561,
+		"mean_gaji_max": 4951219.5121951215
+	},
+	{
+		"nama": "Pemerintah Kota Bitung",
+		"kode": 841568.0,
+		"jumlah_formasi": 120,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 3613445.3781512599,
+		"mean_gaji_min": 3004201.6806722688,
+		"mean_gaji_max": 4222689.0756302522
+	},
+	{
+		"nama": "Pemerintah Kab. Dharmasraya",
+		"kode": 557333.0,
+		"jumlah_formasi": 119,
+		"gaji_min": 2021109.0,
+		"gaji_max": 2968801.0,
+		"mean_gaji": 2637346.509708738,
+		"mean_gaji_min": 2478670.7087378642,
+		"mean_gaji_max": 2796022.3106796122
+	},
+	{
+		"nama": "Pemerintah Kab. Halmahera Utara",
+		"kode": 901170.0,
+		"jumlah_formasi": 116,
+		"gaji_min": 1918700.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 3574407.0175438598,
+		"mean_gaji_min": 2715528.9473684211,
+		"mean_gaji_max": 4433285.087719298
+	},
+	{
+		"nama": "Pemerintah Kab. Sukabumi",
+		"kode": 652914.0,
+		"jumlah_formasi": 115,
+		"gaji_min": 1516742.0,
+		"gaji_max": 4372647.0,
+		"mean_gaji": 2857198.5747663551,
+		"mean_gaji_min": 2046150.2616822431,
+		"mean_gaji_max": 3668246.8878504671
+	},
+	{
+		"nama": "Pemerintah Kab. Nias Utara",
+		"kode": 386650.0,
+		"jumlah_formasi": 114,
+		"gaji_min": 2400000.0,
+		"gaji_max": 19000000.0,
+		"mean_gaji": 3650675.6756756753,
+		"mean_gaji_min": 2894594.5945945946,
+		"mean_gaji_max": 4406756.7567567565
+	},
+	{
+		"nama": "Pemerintah Kab. Karimun",
+		"kode": 615752.0,
+		"jumlah_formasi": 114,
+		"gaji_min": 1747200.0,
+		"gaji_max": 17663782.0,
+		"mean_gaji": 3679096.1381578948,
+		"mean_gaji_min": 2207766.3157894737,
+		"mean_gaji_max": 5150425.9605263164
+	},
+	{
+		"nama": "Lembaga Administrasi Negara ",
+		"kode": 164492.0,
+		"jumlah_formasi": 113,
+		"gaji_min": 2785700.0,
+		"gaji_max": 8038600.0,
+		"mean_gaji": 5305078.0487804879,
+		"mean_gaji_min": 2808704.8780487804,
+		"mean_gaji_max": 7801451.2195121953
+	},
+	{
+		"nama": "Pemerintah Kota Depok",
+		"kode": 667008.0,
+		"jumlah_formasi": 113,
+		"gaji_min": 2184000.0,
+		"gaji_max": 9825700.0,
+		"mean_gaji": 5174779.861111111,
+		"mean_gaji_min": 2571708.333333333,
+		"mean_gaji_max": 7777851.388888889
+	},
+	{
+		"nama": "Pemerintah Kab. Bantul",
+		"kode": 535585.0,
+		"jumlah_formasi": 112,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3642352.9411764708,
+		"mean_gaji_min": 2449411.7647058824,
+		"mean_gaji_max": 4835294.1176470593
+	},
+	{
+		"nama": "Pemerintah Kab. Gayo Lues",
+		"kode": 490848.0,
+		"jumlah_formasi": 112,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3700000.0,
+		"mean_gaji": 3187500.0,
+		"mean_gaji_min": 2937500.0,
+		"mean_gaji_max": 3437500.0
+	},
+	{
+		"nama": "Pemerintah Kab. Batang Hari",
+		"kode": 324559.0,
+		"jumlah_formasi": 110,
+		"gaji_min": 3000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 4000000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Kementerian Investasi/Badan Koordinasi Penanaman Modal",
+		"kode": 237239.0,
+		"jumlah_formasi": 110,
+		"gaji_min": 6500000.0,
+		"gaji_max": 8500000.0,
+		"mean_gaji": 8105084.7457627114,
+		"mean_gaji_min": 7872881.3559322031,
+		"mean_gaji_max": 8337288.1355932206
+	},
+	{
+		"nama": "Pemerintah Kab. Kaur",
+		"kode": 516556.0,
+		"jumlah_formasi": 110,
+		"gaji_min": 2485900.0,
+		"gaji_max": 50000000.0,
+		"mean_gaji": 4605960.1123595499,
+		"mean_gaji_min": 3200684.2696629213,
+		"mean_gaji_max": 6011235.9550561793
+	},
+	{
+		"nama": "Pemerintah Kab. Simeulue",
+		"kode": 470028.0,
+		"jumlah_formasi": 109,
+		"gaji_min": 2511500.0,
+		"gaji_max": 4006920.0,
+		"mean_gaji": 3432649.2391304346,
+		"mean_gaji_min": 3120590.2173913042,
+		"mean_gaji_max": 3744708.260869565
+	},
+	{
+		"nama": "Pemerintah Kab. Pasuruan",
+		"kode": 130280.0,
+		"jumlah_formasi": 109,
+		"gaji_min": 3269432.0,
+		"gaji_max": 6848713.0,
+		"mean_gaji": 5653450.5250000004,
+		"mean_gaji_min": 4895586.4500000002,
+		"mean_gaji_max": 6411314.5999999996
+	},
+	{
+		"nama": "Pemerintah Kab. Tojo Una Una",
+		"kode": 547884.0,
+		"jumlah_formasi": 108,
+		"gaji_min": 2600000.0,
+		"gaji_max": 48600000.0,
+		"mean_gaji": 9650000.0,
+		"mean_gaji_min": 3115789.4736842103,
+		"mean_gaji_max": 16184210.5263157897
+	},
+	{
+		"nama": "Pemerintah Kab. Lumajang",
+		"kode": 495216.0,
+		"jumlah_formasi": 107,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5700000.0,
+		"mean_gaji": 4016447.3684210526,
+		"mean_gaji_min": 3060526.3157894737,
+		"mean_gaji_max": 4972368.4210526319
+	},
+	{
+		"nama": "Pemerintah Kab. Buton Tengah",
+		"kode": 608030.0,
+		"jumlah_formasi": 106,
+		"gaji_min": 1400000.0,
+		"gaji_max": 2700000.0,
+		"mean_gaji": 2434146.3414634145,
+		"mean_gaji_min": 2185365.8536585364,
+		"mean_gaji_max": 2682926.8292682925
+	},
+	{
+		"nama": "Pemerintah Kab. Pringsewu",
+		"kode": 331016.0,
+		"jumlah_formasi": 105,
+		"gaji_min": 2485700.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 4054734.8214285718,
+		"mean_gaji_min": 2769258.9285714286,
+		"mean_gaji_max": 5340210.7142857146
+	},
+	{
+		"nama": "Pemerintah Provinsi Bali",
+		"kode": 337500.0,
+		"jumlah_formasi": 105,
+		"gaji_min": 2800000.0,
+		"gaji_max": 11100000.0,
+		"mean_gaji": 6096666.666666667,
+		"mean_gaji_min": 3022222.222222222,
+		"mean_gaji_max": 9171111.1111111119
+	},
+	{
+		"nama": "Pemerintah Kab. Demak",
+		"kode": 665912.0,
+		"jumlah_formasi": 104,
+		"gaji_min": 2400000.0,
+		"gaji_max": 4200000.0,
+		"mean_gaji": 3430769.230769231,
+		"mean_gaji_min": 2685576.923076923,
+		"mean_gaji_max": 4175961.5384615385
+	},
+	{
+		"nama": "Pemerintah Provinsi Kepulauan Riau",
+		"kode": 575100.0,
+		"jumlah_formasi": 103,
+		"gaji_min": 2800000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 10818309.8591549285,
+		"mean_gaji_min": 3129577.4647887326,
+		"mean_gaji_max": 18507042.2535211295
+	},
+	{
+		"nama": "Pemerintah Kab. Way Kanan",
+		"kode": 466653.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3539368.3544303798,
+		"mean_gaji_min": 3017269.6202531648,
+		"mean_gaji_max": 4061467.0886075948
+	},
+	{
+		"nama": "Pemerintah Kab. Wonogiri",
+		"kode": 559323.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2623563.2183908047,
+		"mean_gaji_min": 2356321.8390804599,
+		"mean_gaji_max": 2890804.5977011491
+	},
+	{
+		"nama": "Pemerintah Kab. Musi Rawas Utara",
+		"kode": 426512.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3865698.0,
+		"mean_gaji": 3266609.4736842103,
+		"mean_gaji_min": 2730478.9473684211,
+		"mean_gaji_max": 3802740.0
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Sula",
+		"kode": 640143.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2485900.0,
+		"gaji_max": 42903600.0,
+		"mean_gaji": 3777186.4197530872,
+		"mean_gaji_min": 2727034.5679012346,
+		"mean_gaji_max": 4827338.2716049384
+	},
+	{
+		"nama": "Pemerintah Kab. Langkat",
+		"kode": 405834.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 3000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3500000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Besar",
+		"kode": 397878.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2723320.0,
+		"gaji_max": 3774784.0,
+		"mean_gaji": 3293766.846153846,
+		"mean_gaji_min": 2992807.1794871795,
+		"mean_gaji_max": 3594726.512820513
+	},
+	{
+		"nama": "Pemerintah Kota Samarinda",
+		"kode": 592535.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2858800.0,
+		"gaji_max": 8500000.0,
+		"mean_gaji": 5489061.176470588,
+		"mean_gaji_min": 3166357.6470588241,
+		"mean_gaji_max": 7811764.7058823528
+	},
+	{
+		"nama": "Pemerintah Kab. Lombok Timur",
+		"kode": 669064.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3706901.1363636358,
+		"mean_gaji_min": 2810719.3181818184,
+		"mean_gaji_max": 4603082.9545454541
+	},
+	{
+		"nama": "Pemerintah Kab. Minahasa",
+		"kode": 504072.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2000000.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 3437500.0,
+		"mean_gaji_min": 2402777.777777778,
+		"mean_gaji_max": 4472222.222222222
+	},
+	{
+		"nama": "Pemerintah Kota Prabumulih",
+		"kode": 476616.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2325600.0,
+		"gaji_max": 3966500.0,
+		"mean_gaji": 2840811.9047619049,
+		"mean_gaji_min": 2346764.2857142859,
+		"mean_gaji_max": 3334859.5238095238
+	},
+	{
+		"nama": "Pemerintah Kab. Rokan Hilir",
+		"kode": 488336.0,
+		"jumlah_formasi": 100,
+		"gaji_min": 2500000.0,
+		"gaji_max": 20000000.0,
+		"mean_gaji": 5880434.7826086953,
+		"mean_gaji_min": 5218478.2608695654,
+		"mean_gaji_max": 6542391.3043478262
+	},
+	{
+		"nama": "Pemerintah Kab. Tanggamus",
+		"kode": 566976.0,
+		"jumlah_formasi": 99,
+		"gaji_min": 2100000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3425000.0,
+		"mean_gaji_min": 2581250.0,
+		"mean_gaji_max": 4268750.0
+	},
+	{
+		"nama": "Arsip Nasional Republik Indonesia",
+		"kode": 212954.0,
+		"jumlah_formasi": 99,
+		"gaji_min": 6419000.0,
+		"gaji_max": 8735000.0,
+		"mean_gaji": 7797292.452830188,
+		"mean_gaji_min": 7499679.2452830188,
+		"mean_gaji_max": 8094905.6603773581
+	},
+	{
+		"nama": "Pemerintah Kab. Bulukumba",
+		"kode": 314373.0,
+		"jumlah_formasi": 99,
+		"gaji_min": 2206500.0,
+		"gaji_max": 3201200.0,
+		"mean_gaji": 2703850.0,
+		"mean_gaji_min": 2206500.0,
+		"mean_gaji_max": 3201200.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bima",
+		"kode": 608320.0,
+		"jumlah_formasi": 99,
+		"gaji_min": 274570.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3662092.9375,
+		"mean_gaji_min": 2729387.125,
+		"mean_gaji_max": 4594798.75
+	},
+	{
+		"nama": "Pemerintah Kab. Madiun",
+		"kode": 502194.0,
+		"jumlah_formasi": 99,
+		"gaji_min": 2558320.0,
+		"gaji_max": 4417712.0,
+		"mean_gaji": 3384601.5584415589,
+		"mean_gaji_min": 3084327.7922077924,
+		"mean_gaji_max": 3684875.3246753248
+	},
+	{
+		"nama": "Pemerintah Kab. Labuhanbatu Selatan",
+		"kode": 464758.0,
+		"jumlah_formasi": 98,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3250000.0,
+		"mean_gaji_min": 2500000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Badan Nasional Penanggulangan Bencana",
+		"kode": 185978.0,
+		"jumlah_formasi": 98,
+		"gaji_min": 5000000.0,
+		"gaji_max": 8286200.0,
+		"mean_gaji": 6940319.7391304346,
+		"mean_gaji_min": 5763558.6956521738,
+		"mean_gaji_max": 8117080.7826086953
+	},
+	{
+		"nama": "Pemerintah Kota Subulussalam",
+		"kode": 227700.0,
+		"jumlah_formasi": 97,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3484320.0,
+		"mean_gaji": 2998085.0,
+		"mean_gaji_min": 2725531.8181818184,
+		"mean_gaji_max": 3270638.1818181816
+	},
+	{
+		"nama": "Pemerintah Kota Tasikmalaya",
+		"kode": 599266.0,
+		"jumlah_formasi": 97,
+		"gaji_min": 2485900.0,
+		"gaji_max": 17354604.0,
+		"mean_gaji": 5101628.051546392,
+		"mean_gaji_min": 3066824.7422680408,
+		"mean_gaji_max": 7136431.3608247424
+	},
+	{
+		"nama": "Pemerintah Kota Manado",
+		"kode": 487899.0,
+		"jumlah_formasi": 97,
+		"gaji_min": 3200000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3607246.3768115938,
+		"mean_gaji_min": 3214492.7536231885,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Kementerian Luar Negeri",
+		"kode": 48032.0,
+		"jumlah_formasi": 96,
+		"gaji_min": 2200000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 5100000.0,
+		"mean_gaji_min": 2200000.0,
+		"mean_gaji_max": 8000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Kolaka",
+		"kode": 592320.0,
+		"jumlah_formasi": 96,
+		"gaji_min": 2000000.0,
+		"gaji_max": 17000000.0,
+		"mean_gaji": 3793750.0,
+		"mean_gaji_min": 2362500.0,
+		"mean_gaji_max": 5225000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Buol",
+		"kode": 518760.0,
+		"jumlah_formasi": 95,
+		"gaji_min": 2647200.0,
+		"gaji_max": 4423580.0,
+		"mean_gaji": 3465332.388888889,
+		"mean_gaji_min": 2943161.111111111,
+		"mean_gaji_max": 3987503.6666666665
+	},
+	{
+		"nama": "Pemerintah Kab. Sukoharjo",
+		"kode": 572003.0,
+		"jumlah_formasi": 95,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 4025280.8988764049,
+		"mean_gaji_min": 3775280.8988764049,
+		"mean_gaji_max": 4275280.8988764044
+	},
+	{
+		"nama": "Pemerintah Kab. Lampung Timur",
+		"kode": 454916.0,
+		"jumlah_formasi": 94,
+		"gaji_min": 2485944.0,
+		"gaji_max": 4575312.0,
+		"mean_gaji": 3644807.8441558438,
+		"mean_gaji_min": 2762390.3376623378,
+		"mean_gaji_max": 4527225.3506493503
+	},
+	{
+		"nama": "Pemerintah Kab. Konawe Utara",
+		"kode": 644757.0,
+		"jumlah_formasi": 93,
+		"gaji_min": 3000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3991379.3103448274,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 4982758.6206896547
+	},
+	{
+		"nama": "Pemerintah Kab. Trenggalek",
+		"kode": 482480.0,
+		"jumlah_formasi": 93,
+		"gaji_min": 2301800.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 3468689.1891891891,
+		"mean_gaji_min": 2579270.2702702703,
+		"mean_gaji_max": 4358108.1081081079
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Barat",
+		"kode": 428904.0,
+		"jumlah_formasi": 92,
+		"gaji_min": 2200000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3077976.1904761903,
+		"mean_gaji_min": 2778571.4285714286,
+		"mean_gaji_max": 3377380.9523809524
+	},
+	{
+		"nama": "Pemerintah Kota Pematangsiantar",
+		"kode": 432468.0,
+		"jumlah_formasi": 92,
+		"gaji_min": 2800000.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 3909756.0975609762,
+		"mean_gaji_min": 2978048.7804878047,
+		"mean_gaji_max": 4841463.4146341467
+	},
+	{
+		"nama": "Pemerintah Kota Blitar",
+		"kode": 591840.0,
+		"jumlah_formasi": 92,
+		"gaji_min": 2098726.0,
+		"gaji_max": 6514581.0,
+		"mean_gaji": 4493133.7388888886,
+		"mean_gaji_min": 2567608.3222222221,
+		"mean_gaji_max": 6418659.1555555556
+	},
+	{
+		"nama": "Pemerintah Kota Mataram",
+		"kode": 667377.0,
+		"jumlah_formasi": 91,
+		"gaji_min": 2485900.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 3523009.7701149425,
+		"mean_gaji_min": 2741421.8390804599,
+		"mean_gaji_max": 4304597.7011494255
+	},
+	{
+		"nama": "Pemerintah Kota Solok",
+		"kode": 437920.0,
+		"jumlah_formasi": 91,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 2962500.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 3925000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Barito Kuala",
+		"kode": 605734.0,
+		"jumlah_formasi": 91,
+		"gaji_min": 1988720.0,
+		"gaji_max": 22365200.0,
+		"mean_gaji": 3773337.6966292132,
+		"mean_gaji_min": 3497295.9550561798,
+		"mean_gaji_max": 4049379.438202247
+	},
+	{
+		"nama": "Pemerintah Kab. Mamasa",
+		"kode": 722361.0,
+		"jumlah_formasi": 89,
+		"gaji_min": 2500000.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 3910919.5402298849,
+		"mean_gaji_min": 2948275.8620689656,
+		"mean_gaji_max": 4873563.2183908047
+	},
+	{
+		"nama": "Pemerintah Kab. Banyuwangi",
+		"kode": 475303.0,
+		"jumlah_formasi": 89,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3400000.0,
+		"mean_gaji": 2888698.6301369863,
+		"mean_gaji_min": 2755479.4520547944,
+		"mean_gaji_max": 3021917.8082191781
+	},
+	{
+		"nama": "Pemerintah Kab. Gorontalo",
+		"kode": 461565.0,
+		"jumlah_formasi": 88,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3624919.230769231,
+		"mean_gaji_min": 2750380.0,
+		"mean_gaji_max": 4499458.461538462
+	},
+	{
+		"nama": "Pemerintah Kab. Kulon Progo",
+		"kode": 529536.0,
+		"jumlah_formasi": 88,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3588100.0,
+		"mean_gaji_min": 2727592.8571428573,
+		"mean_gaji_max": 4448607.1428571427
+	},
+	{
+		"nama": "Pemerintah Kota Parepare",
+		"kode": 486552.0,
+		"jumlah_formasi": 88,
+		"gaji_min": 1988720.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2474746.3636363638,
+		"mean_gaji_min": 2199774.5454545454,
+		"mean_gaji_max": 2749718.1818181816
+	},
+	{
+		"nama": "Pemerintah Kab. Tabalong",
+		"kode": 510525.0,
+		"jumlah_formasi": 88,
+		"gaji_min": 2800000.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 5512000.0,
+		"mean_gaji_min": 3184000.0,
+		"mean_gaji_max": 7840000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Boyolali",
+		"kode": 520425.0,
+		"jumlah_formasi": 87,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2711728.3950617285,
+		"mean_gaji_min": 2440740.7407407407,
+		"mean_gaji_max": 2982716.049382716
+	},
+	{
+		"nama": "Pemerintah Kota Bontang",
+		"kode": 543894.0,
+		"jumlah_formasi": 87,
+		"gaji_min": 6985900.0,
+		"gaji_max": 51833600.0,
+		"mean_gaji": 10267626.9230769239,
+		"mean_gaji_min": 8068903.846153846,
+		"mean_gaji_max": 12466350.0
+	},
+	{
+		"nama": "Pemerintah Kota Metro",
+		"kode": 471709.0,
+		"jumlah_formasi": 86,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4970500.0,
+		"mean_gaji": 3653795.5696202535,
+		"mean_gaji_min": 2770388.6075949366,
+		"mean_gaji_max": 4537202.53164557
+	},
+	{
+		"nama": "Pemerintah Kab. Sidenreng Rappang",
+		"kode": 460971.0,
+		"jumlah_formasi": 86,
+		"gaji_min": 2436500.0,
+		"gaji_max": 3784800.0,
+		"mean_gaji": 3292732.5396825401,
+		"mean_gaji_min": 2992631.7460317458,
+		"mean_gaji_max": 3592833.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Gunung Kidul",
+		"kode": 497937.0,
+		"jumlah_formasi": 85,
+		"gaji_min": 2485900.0,
+		"gaji_max": 8900000.0,
+		"mean_gaji": 3988710.1265822789,
+		"mean_gaji_min": 2704002.531645569,
+		"mean_gaji_max": 5273417.7215189878
+	},
+	{
+		"nama": "Pemerintah Kab. Takalar",
+		"kode": 497420.0,
+		"jumlah_formasi": 85,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3623080.5882352944,
+		"mean_gaji_min": 2246161.1764705884,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Batam",
+		"kode": 645509.0,
+		"jumlah_formasi": 85,
+		"gaji_min": 2742800.0,
+		"gaji_max": 6061949.0,
+		"mean_gaji": 4457956.7784810122,
+		"mean_gaji_min": 2857331.6455696202,
+		"mean_gaji_max": 6058581.9113924047
+	},
+	{
+		"nama": "Pemerintah Kab. Mojokerto",
+		"kode": 455140.0,
+		"jumlah_formasi": 85,
+		"gaji_min": 2485900.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 5951533.5714285709,
+		"mean_gaji_min": 4084495.7142857141,
+		"mean_gaji_max": 7818571.4285714282
+	},
+	{
+		"nama": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",
+		"kode": 34340.0,
+		"jumlah_formasi": 85,
+		"gaji_min": 7000000.0,
+		"gaji_max": 9000000.0,
+		"mean_gaji": 8370588.2352941176,
+		"mean_gaji_min": 7882352.9411764704,
+		"mean_gaji_max": 8858823.5294117648
+	},
+	{
+		"nama": "Pemerintah Kab. Pacitan",
+		"kode": 528606.0,
+		"jumlah_formasi": 84,
+		"gaji_min": 2400000.0,
+		"gaji_max": 4250000.0,
+		"mean_gaji": 3362500.0,
+		"mean_gaji_min": 2711111.111111111,
+		"mean_gaji_max": 4013888.888888889
+	},
+	{
+		"nama": "Pemerintah Kab. Kolaka Timur",
+		"kode": 548488.0,
+		"jumlah_formasi": 83,
+		"gaji_min": 1800000.0,
+		"gaji_max": 45000000.0,
+		"mean_gaji": 3667567.5675675673,
+		"mean_gaji_min": 2963513.5135135134,
+		"mean_gaji_max": 4371621.6216216218
+	},
+	{
+		"nama": "Pemerintah Kab. Bolaang Mongondow Timur",
+		"kode": 511949.0,
+		"jumlah_formasi": 83,
+		"gaji_min": 2299800.0,
+		"gaji_max": 5400000.0,
+		"mean_gaji": 4137097.260273973,
+		"mean_gaji_min": 3132345.2054794519,
+		"mean_gaji_max": 5141849.3150684936
+	},
+	{
+		"nama": "Pemerintah Kota Kendari",
+		"kode": 582738.0,
+		"jumlah_formasi": 82,
+		"gaji_min": 3000000.0,
+		"gaji_max": 20000000.0,
+		"mean_gaji": 5435897.435897436,
+		"mean_gaji_min": 3474358.9743589745,
+		"mean_gaji_max": 7397435.897435897
+	},
+	{
+		"nama": "Badan Informasi Geospasial",
+		"kode": 96456.0,
+		"jumlah_formasi": 82,
+		"gaji_min": 5000000.0,
+		"gaji_max": 7900000.0,
+		"mean_gaji": 6502083.333333334,
+		"mean_gaji_min": 5404166.666666667,
+		"mean_gaji_max": 7600000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Lombok Barat",
+		"kode": 494065.0,
+		"jumlah_formasi": 80,
+		"gaji_min": 2665900.0,
+		"gaji_max": 3355698.0,
+		"mean_gaji": 3121217.6461538458,
+		"mean_gaji_min": 2928801.5384615385,
+		"mean_gaji_max": 3313633.7538461536
+	},
+	{
+		"nama": "Pemerintah Kota Sawahlunto",
+		"kode": 405002.0,
+		"jumlah_formasi": 80,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3339100.0,
+		"mean_gaji": 2683501.3513513515,
+		"mean_gaji_min": 2683501.3513513515,
+		"mean_gaji_max": 2683501.3513513515
+	},
+	{
+		"nama": "Pemerintah Kota Gunung Sitoli",
+		"kode": 269178.0,
+		"jumlah_formasi": 80,
+		"gaji_min": 2200000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3615686.2745098039,
+		"mean_gaji_min": 2868627.4509803923,
+		"mean_gaji_max": 4362745.0980392154
+	},
+	{
+		"nama": "Pemerintah Kab. Sragen",
+		"kode": 494802.0,
+		"jumlah_formasi": 80,
+		"gaji_min": 2184000.0,
+		"gaji_max": 5653600.0,
+		"mean_gaji": 4016081.8181818174,
+		"mean_gaji_min": 2791010.3896103897,
+		"mean_gaji_max": 5241153.2467532475
+	},
+	{
+		"nama": "Pemerintah Provinsi Riau",
+		"kode": 392200.0,
+		"jumlah_formasi": 80,
+		"gaji_min": 7988613.0,
+		"gaji_max": 13274728.0,
+		"mean_gaji": 11272765.6216216218,
+		"mean_gaji_min": 10922765.6216216218,
+		"mean_gaji_max": 11622765.6216216218
+	},
+	{
+		"nama": "Pemerintah Kab. Lanny Jaya",
+		"kode": 583369.0,
+		"jumlah_formasi": 79,
+		"gaji_min": 2700000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3261940.2985074627,
+		"mean_gaji_min": 2834328.3582089557,
+		"mean_gaji_max": 3689552.2388059702
+	},
+	{
+		"nama": "Pemerintah Kab. Temanggung",
+		"kode": 462240.0,
+		"jumlah_formasi": 79,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3000000.0,
+		"mean_gaji": 2493055.5555555555,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 2986111.111111111
+	},
+	{
+		"nama": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+		"kode": 145944.0,
+		"jumlah_formasi": 78,
+		"gaji_min": 6418800.0,
+		"gaji_max": 9159000.0,
+		"mean_gaji": 8087344.444444444,
+		"mean_gaji_min": 7563411.111111111,
+		"mean_gaji_max": 8611277.777777778
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Tenggara",
+		"kode": 352452.0,
+		"jumlah_formasi": 78,
+		"gaji_min": 2785700.0,
+		"gaji_max": 3154400.0,
+		"mean_gaji": 2984810.1449275361,
+		"mean_gaji_min": 2820284.0579710142,
+		"mean_gaji_max": 3149336.2318840581
+	},
+	{
+		"nama": "Pemerintah Kota Balikpapan",
+		"kode": 376488.0,
+		"jumlah_formasi": 78,
+		"gaji_min": 2485900.0,
+		"gaji_max": 13502534.0,
+		"mean_gaji": 6689202.5370370373,
+		"mean_gaji_min": 2709596.2962962962,
+		"mean_gaji_max": 10668808.777777778
+	},
+	{
+		"nama": "Pemerintah Kab. Lebak",
+		"kode": 452819.0,
+		"jumlah_formasi": 78,
+		"gaji_min": 2000000.0,
+		"gaji_max": 35000000.0,
+		"mean_gaji": 3078767.1232876712,
+		"mean_gaji_min": 2369863.01369863,
+		"mean_gaji_max": 3787671.2328767129
+	},
+	{
+		"nama": "Pemerintah Kab. Banyumas",
+		"kode": 404145.0,
+		"jumlah_formasi": 77,
+		"gaji_min": 2800000.0,
+		"gaji_max": 5200000.0,
+		"mean_gaji": 4147619.047619048,
+		"mean_gaji_min": 3161904.7619047621,
+		"mean_gaji_max": 5133333.333333333
+	},
+	{
+		"nama": "Pemerintah Kab. Bombana",
+		"kode": 466641.0,
+		"jumlah_formasi": 76,
+		"gaji_min": 3000000.0,
+		"gaji_max": 4200000.0,
+		"mean_gaji": 3758730.158730159,
+		"mean_gaji_min": 3658730.158730159,
+		"mean_gaji_max": 3858730.158730159
+	},
+	{
+		"nama": "Pemerintah Kab. Buton Utara",
+		"kode": 503880.0,
+		"jumlah_formasi": 76,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2808823.5294117648,
+		"mean_gaji_min": 2558823.5294117648,
+		"mean_gaji_max": 3058823.5294117648
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Barat Daya",
+		"kode": 209592.0,
+		"jumlah_formasi": 75,
+		"gaji_min": 2550000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3207926.8292682925,
+		"mean_gaji_min": 2864634.146341464,
+		"mean_gaji_max": 3551219.512195122
+	},
+	{
+		"nama": "Pemerintah Kab. Tulungagung",
+		"kode": 488850.0,
+		"jumlah_formasi": 75,
+		"gaji_min": 2400000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3360000.0,
+		"mean_gaji_min": 2861333.333333333,
+		"mean_gaji_max": 3858666.6666666665
+	},
+	{
+		"nama": "Pemerintah Kab. Tanjung Jabung Timur",
+		"kode": 347067.0,
+		"jumlah_formasi": 75,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3500000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
+		"kode": 96350.0,
+		"jumlah_formasi": 73,
+		"gaji_min": 2485900.0,
+		"gaji_max": 9340520.0,
+		"mean_gaji": 5787689.3617021274,
+		"mean_gaji_min": 2753806.3829787234,
+		"mean_gaji_max": 8821572.3404255323
+	},
+	{
+		"nama": "Pemerintah Kab. Bengkulu Utara",
+		"kode": 388667.0,
+		"jumlah_formasi": 73,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3576119.4029850746,
+		"mean_gaji_min": 3080597.0149253733,
+		"mean_gaji_max": 4071641.7910447759
+	},
+	{
+		"nama": "Pemerintah Kab. Bone",
+		"kode": 489435.0,
+		"jumlah_formasi": 72,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3500000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Kementerian Koordinator Bidang Perekonomian",
+		"kode": 52020.0,
+		"jumlah_formasi": 72,
+		"gaji_min": 4809270.0,
+		"gaji_max": 9125673.0,
+		"mean_gaji": 6842576.5784313725,
+		"mean_gaji_min": 5518222.7450980404,
+		"mean_gaji_max": 8166930.4117647056
+	},
+	{
+		"nama": "Pemerintah Kab. Belitung",
+		"kode": 387736.0,
+		"jumlah_formasi": 71,
+		"gaji_min": 2485900.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2664630.8823529412,
+		"mean_gaji_min": 2664630.8823529412,
+		"mean_gaji_max": 2664630.8823529412
+	},
+	{
+		"nama": "Pemerintah Kota Sibolga",
+		"kode": 226868.0,
+		"jumlah_formasi": 70,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4800000.0,
+		"mean_gaji": 3658139.5348837208,
+		"mean_gaji_min": 2772093.0232558139,
+		"mean_gaji_max": 4544186.0465116277
+	},
+	{
+		"nama": "Pemerintah Kab. Pati",
+		"kode": 429403.0,
+		"jumlah_formasi": 70,
+		"gaji_min": 2400000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3314925.3731343285,
+		"mean_gaji_min": 2647761.1940298509,
+		"mean_gaji_max": 3982089.5522388062
+	},
+	{
+		"nama": "Pemerintah Kab. Banjarnegara",
+		"kode": 385080.0,
+		"jumlah_formasi": 67,
+		"gaji_min": 2485900.0,
+		"gaji_max": 12000000.0,
+		"mean_gaji": 3448535.0,
+		"mean_gaji_min": 3280826.6666666665,
+		"mean_gaji_max": 3616243.3333333335
+	},
+	{
+		"nama": "Pemerintah Kab. Probolinggo",
+		"kode": 358325.0,
+		"jumlah_formasi": 67,
+		"gaji_min": 1988720.0,
+		"gaji_max": 2648083.0,
+		"mean_gaji": 2346235.1545454543,
+		"mean_gaji_min": 2192743.2727272729,
+		"mean_gaji_max": 2499727.0363636361
+	},
+	{
+		"nama": "Pemerintah Kab. Wonosobo",
+		"kode": 391681.0,
+		"jumlah_formasi": 65,
+		"gaji_min": 1988720.0,
+		"gaji_max": 3325700.0,
+		"mean_gaji": 2627984.9180327868,
+		"mean_gaji_min": 2195294.4262295081,
+		"mean_gaji_max": 3060675.409836065
+	},
+	{
+		"nama": "Pemerintah Kab. Malinau",
+		"kode": 436904.0,
+		"jumlah_formasi": 65,
+		"gaji_min": 2485000.0,
+		"gaji_max": 5716000.0,
+		"mean_gaji": 4176471.153846154,
+		"mean_gaji_min": 3167269.230769231,
+		"mean_gaji_max": 5185673.076923077
+	},
+	{
+		"nama": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+		"kode": 39140.0,
+		"jumlah_formasi": 65,
+		"gaji_min": 3000000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4500000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 6000000.0
+	},
+	{
+		"nama": "Pemerintah Provinsi Kalimantan Utara",
+		"kode": 462000.0,
+		"jumlah_formasi": 64,
+		"gaji_min": 2600000.0,
+		"gaji_max": 6300000.0,
+		"mean_gaji": 4352727.2727272725,
+		"mean_gaji_min": 2716363.6363636358,
+		"mean_gaji_max": 5989090.9090909092
+	},
+	{
+		"nama": "Pemerintah Kab. Pamekasan",
+		"kode": 390360.0,
+		"jumlah_formasi": 64,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3642987.5,
+		"mean_gaji_min": 2765208.333333333,
+		"mean_gaji_max": 4520766.666666667
+	},
+	{
+		"nama": "Setjen WANTANNAS",
+		"kode": 56126.0,
+		"jumlah_formasi": 64,
+		"gaji_min": 6145320.0,
+		"gaji_max": 8064378.0,
+		"mean_gaji": 7648764.2857142854,
+		"mean_gaji_min": 7346634.2857142854,
+		"mean_gaji_max": 7950894.2857142854
+	},
+	{
+		"nama": "Pemerintah Kab. Mesuji",
+		"kode": 354720.0,
+		"jumlah_formasi": 63,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3339100.0,
+		"mean_gaji": 2760949.166666667,
+		"mean_gaji_min": 2757320.0,
+		"mean_gaji_max": 2764578.333333333
+	},
+	{
+		"nama": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+		"kode": 94760.0,
+		"jumlah_formasi": 61,
+		"gaji_min": 7864700.0,
+		"gaji_max": 12287736.0,
+		"mean_gaji": 10856481.9130434804,
+		"mean_gaji_min": 9559273.9130434804,
+		"mean_gaji_max": 12153689.9130434804
+	},
+	{
+		"nama": "Pemerintah Kab. Lampung Tengah",
+		"kode": 259688.0,
+		"jumlah_formasi": 61,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3880681.8181818174,
+		"mean_gaji_min": 2761363.6363636358,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Tulang Bawang",
+		"kode": 301155.0,
+		"jumlah_formasi": 60,
+		"gaji_min": 300000.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3736266.6666666665,
+		"mean_gaji_min": 2827864.7058823528,
+		"mean_gaji_max": 4644668.6274509802
+	},
+	{
+		"nama": "Pemerintah Kab. Cirebon",
+		"kode": 244520.0,
+		"jumlah_formasi": 60,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3462500.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 4925000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bengkulu Selatan",
+		"kode": 266892.0,
+		"jumlah_formasi": 60,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3687606.5217391299,
+		"mean_gaji_min": 2793169.5652173911,
+		"mean_gaji_max": 4582043.4782608692
+	},
+	{
+		"nama": "Pemerintah Provinsi Kalimantan Barat",
+		"kode": 204600.0,
+		"jumlah_formasi": 60,
+		"gaji_min": 2511500.0,
+		"gaji_max": 30136970.0,
+		"mean_gaji": 8654049.7741935495,
+		"mean_gaji_min": 2944606.4516129037,
+		"mean_gaji_max": 14363493.0967741944
+	},
+	{
+		"nama": "Pemerintah Kab. Gorontalo Utara",
+		"kode": 369460.0,
+		"jumlah_formasi": 59,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3605127.884615385,
+		"mean_gaji_min": 2742298.076923077,
+		"mean_gaji_max": 4467957.692307692
+	},
+	{
+		"nama": "Pemerintah Kota Jambi",
+		"kode": 278550.0,
+		"jumlah_formasi": 59,
+		"gaji_min": 1800000.0,
+		"gaji_max": 4100000.0,
+		"mean_gaji": 3084000.0,
+		"mean_gaji_min": 2584000.0,
+		"mean_gaji_max": 3584000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Lombok Utara",
+		"kode": 342360.0,
+		"jumlah_formasi": 59,
+		"gaji_min": 2485900.0,
+		"gaji_max": 23101500.0,
+		"mean_gaji": 5202766.3555555558,
+		"mean_gaji_min": 2811680.0,
+		"mean_gaji_max": 7593852.7111111116
+	},
+	{
+		"nama": "Pemerintah Kab. Rokan Hulu",
+		"kode": 169824.0,
+		"jumlah_formasi": 58,
+		"gaji_min": 1988720.0,
+		"gaji_max": 3835700.0,
+		"mean_gaji": 3004463.4375,
+		"mean_gaji_min": 2206020.625,
+		"mean_gaji_max": 3802906.25
+	},
+	{
+		"nama": "Pemerintah Kab. Serang",
+		"kode": 347256.0,
+		"jumlah_formasi": 56,
+		"gaji_min": 2800000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3501241.9642857146,
+		"mean_gaji_min": 3002483.9285714286,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bangka Tengah",
+		"kode": 239568.0,
+		"jumlah_formasi": 54,
+		"gaji_min": 2184000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 4874335.833333333,
+		"mean_gaji_min": 2703226.4285714286,
+		"mean_gaji_max": 7045445.2380952379
+	},
+	{
+		"nama": "Pemerintah Kab. Pesisir Selatan",
+		"kode": 291924.0,
+		"jumlah_formasi": 54,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6500000.0,
+		"mean_gaji": 3766666.6666666665,
+		"mean_gaji_min": 3261111.111111111,
+		"mean_gaji_max": 4272222.222222222
+	},
+	{
+		"nama": "Pemerintah Kota Sabang",
+		"kode": 170643.0,
+		"jumlah_formasi": 54,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3532354.5454545459,
+		"mean_gaji_min": 2689339.393939394,
+		"mean_gaji_max": 4375369.6969696973
+	},
+	{
+		"nama": "Pemerintah Kab. Kolaka Utara",
+		"kode": 377706.0,
+		"jumlah_formasi": 53,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 2982235.2941176472,
+		"mean_gaji_min": 2799372.5490196082,
+		"mean_gaji_max": 3165098.0392156863
+	},
+	{
+		"nama": "Pemerintah Kota Baubau",
+		"kode": 366128.0,
+		"jumlah_formasi": 53,
+		"gaji_min": 2200000.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 3300000.0,
+		"mean_gaji_min": 2759183.6734693879,
+		"mean_gaji_max": 3840816.3265306121
+	},
+	{
+		"nama": "Kementerian Pemuda dan Olahraga",
+		"kode": 44100.0,
+		"jumlah_formasi": 53,
+		"gaji_min": 4257920.0,
+		"gaji_max": 7175306.0,
+		"mean_gaji": 5873539.2857142854,
+		"mean_gaji_min": 4887066.666666667,
+		"mean_gaji_max": 6860011.9047619049
+	},
+	{
+		"nama": "Badan Pembinaan Ideologi Pancasila",
+		"kode": 166706.0,
+		"jumlah_formasi": 53,
+		"gaji_min": 6715000.0,
+		"gaji_max": 9899400.0,
+		"mean_gaji": 7207851.2195121953,
+		"mean_gaji_min": 6962790.2439024393,
+		"mean_gaji_max": 7452912.1951219514
+	},
+	{
+		"nama": "Pemerintah Kab. Rembang",
+		"kode": 307824.0,
+		"jumlah_formasi": 52,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 2916666.666666667,
+		"mean_gaji_min": 2500000.0,
+		"mean_gaji_max": 3333333.333333333
+	},
+	{
+		"nama": "Pemerintah Kota Palangka Raya",
+		"kode": 304695.0,
+		"jumlah_formasi": 51,
+		"gaji_min": 2184000.0,
+		"gaji_max": 7061600.0,
+		"mean_gaji": 4360425.555555556,
+		"mean_gaji_min": 2753175.5555555555,
+		"mean_gaji_max": 5967675.555555556
+	},
+	{
+		"nama": "Pemerintah Kota Tidore Kepulauan",
+		"kode": 247132.0,
+		"jumlah_formasi": 51,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3000000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Sukabumi",
+		"kode": 197536.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 2301800.0,
+		"gaji_max": 2785700.0,
+		"mean_gaji": 2637440.625,
+		"mean_gaji_min": 2536025.0,
+		"mean_gaji_max": 2738856.25
+	},
+	{
+		"nama": "Pemerintah Kab. Indragiri Hulu",
+		"kode": 111384.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 2184000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 4866285.7142857146,
+		"mean_gaji_min": 2946857.1428571427,
+		"mean_gaji_max": 6785714.2857142854
+	},
+	{
+		"nama": "Pemerintah Kab. Rejang Lebong",
+		"kode": 220514.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 2500000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3710526.3157894728,
+		"mean_gaji_min": 2526315.789473684,
+		"mean_gaji_max": 4894736.8421052629
+	},
+	{
+		"nama": "Pemerintah Kab. Subang",
+		"kode": 256494.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 3200000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3600000.0,
+		"mean_gaji_min": 3200000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Bandar Lampung",
+		"kode": 203048.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5180700.0,
+		"mean_gaji": 3618302.9411764708,
+		"mean_gaji_min": 2741335.2941176472,
+		"mean_gaji_max": 4495270.5882352944
+	},
+	{
+		"nama": "Pemerintah Kab. Padang Pariaman",
+		"kode": 254035.0,
+		"jumlah_formasi": 50,
+		"gaji_min": 3000000.0,
+		"gaji_max": 3800000.0,
+		"mean_gaji": 3294680.8510638298,
+		"mean_gaji_min": 3044680.8510638298,
+		"mean_gaji_max": 3544680.8510638298
+	},
+	{
+		"nama": "Pemerintah Kab. Cianjur",
+		"kode": 268532.0,
+		"jumlah_formasi": 49,
+		"gaji_min": 1988720.0,
+		"gaji_max": 40000000.0,
+		"mean_gaji": 4612567.2727272725,
+		"mean_gaji_min": 2260376.3636363642,
+		"mean_gaji_max": 6964758.1818181816
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Tamiang",
+		"kode": 245472.0,
+		"jumlah_formasi": 49,
+		"gaji_min": 2785700.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3984041.6666666665,
+		"mean_gaji_min": 2785700.0,
+		"mean_gaji_max": 5182383.333333333
+	},
+	{
+		"nama": "Pemerintah Kota Malang",
+		"kode": 151179.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 1500000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2917391.3043478262,
+		"mean_gaji_min": 2378260.8695652173,
+		"mean_gaji_max": 3456521.7391304346
+	},
+	{
+		"nama": "Pemerintah Kab. Tana Tidung",
+		"kode": 394988.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2000000.0,
+		"gaji_max": 10000000.0,
+		"mean_gaji": 4797872.3404255323,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 7595744.6808510637
+	},
+	{
+		"nama": "Pemerintah Kota Pangkal Pinang",
+		"kode": 253924.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2152908.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3514975.1818181816,
+		"mean_gaji_min": 2647918.5454545454,
+		"mean_gaji_max": 4382031.8181818184
+	},
+	{
+		"nama": "Pemerintah Kab. Muna",
+		"kode": 273911.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2500000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2986486.4864864862,
+		"mean_gaji_min": 2500000.0,
+		"mean_gaji_max": 3472972.9729729728
+	},
+	{
+		"nama": "Pemerintah Kab. Tuban",
+		"kode": 228480.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3659464.285714285,
+		"mean_gaji_min": 2776557.1428571427,
+		"mean_gaji_max": 4542371.4285714282
+	},
+	{
+		"nama": "Pemerintah Kab. Nias Selatan",
+		"kode": 208560.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2400000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3053750.0,
+		"mean_gaji_min": 2480000.0,
+		"mean_gaji_max": 3627500.0
+	},
+	{
+		"nama": "Pemerintah Kota Batu",
+		"kode": 210528.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3026400.0,
+		"mean_gaji": 2797056.25,
+		"mean_gaji_min": 2567712.5,
+		"mean_gaji_max": 3026400.0
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Selayar",
+		"kode": 263304.0,
+		"jumlah_formasi": 48,
+		"gaji_min": 2785700.0,
+		"gaji_max": 6373200.0,
+		"mean_gaji": 4504825.0,
+		"mean_gaji_min": 2802075.0,
+		"mean_gaji_max": 6207575.0
+	},
+	{
+		"nama": "Pemerintah Kota Madiun",
+		"kode": 249964.0,
+		"jumlah_formasi": 47,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3088600.0,
+		"mean_gaji": 2844692.1052631577,
+		"mean_gaji_min": 2752192.1052631577,
+		"mean_gaji_max": 2937192.1052631577
+	},
+	{
+		"nama": "Pemerintah Kab. Mempawah",
+		"kode": 283972.0,
+		"jumlah_formasi": 47,
+		"gaji_min": 3000000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4500000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 6000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Pekalongan",
+		"kode": 281820.0,
+		"jumlah_formasi": 47,
+		"gaji_min": 2500000.0,
+		"gaji_max": 4600000.0,
+		"mean_gaji": 3625000.0,
+		"mean_gaji_min": 2840909.0909090908,
+		"mean_gaji_max": 4409090.9090909092
+	},
+	{
+		"nama": "Pemerintah Kota Bandung",
+		"kode": 253011.0,
+		"jumlah_formasi": 47,
+		"gaji_min": 2800000.0,
+		"gaji_max": 14800000.0,
+		"mean_gaji": 6259756.0975609757,
+		"mean_gaji_min": 3156097.5609756098,
+		"mean_gaji_max": 9363414.6341463421
+	},
+	{
+		"nama": "Pemerintah Kab. Blitar",
+		"kode": 110857.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2858800.0,
+		"gaji_max": 5841100.0,
+		"mean_gaji": 4223823.5294117648,
+		"mean_gaji_min": 3194529.411764706,
+		"mean_gaji_max": 5253117.6470588231
+	},
+	{
+		"nama": "Pemerintah Kab. Karo",
+		"kode": 218484.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3612959.5238095238,
+		"mean_gaji_min": 2746057.1428571427,
+		"mean_gaji_max": 4479861.9047619049
+	},
+	{
+		"nama": "Pemerintah Kab. Sumenep",
+		"kode": 221238.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2700000.0,
+		"gaji_max": 10700000.0,
+		"mean_gaji": 7438235.2941176463,
+		"mean_gaji_min": 6952941.176470588,
+		"mean_gaji_max": 7923529.4117647056
+	},
+	{
+		"nama": "Pemerintah Kab. Kudus",
+		"kode": 256400.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2500000.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4237500.0,
+		"mean_gaji_min": 3250000.0,
+		"mean_gaji_max": 5225000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Pidie",
+		"kode": 224488.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3560000.0,
+		"mean_gaji": 3060452.2727272725,
+		"mean_gaji_min": 2747268.1818181816,
+		"mean_gaji_max": 3373636.3636363642
+	},
+	{
+		"nama": "Pemerintah Kab. Lampung Selatan",
+		"kode": 236040.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 3200000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3600000.0,
+		"mean_gaji_min": 3200000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Tebing Tinggi",
+		"kode": 184520.0,
+		"jumlah_formasi": 46,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3563587.1428571427,
+		"mean_gaji_min": 2714768.5714285718,
+		"mean_gaji_max": 4412405.7142857146
+	},
+	{
+		"nama": "Pemerintah Kota Bukittinggi",
+		"kode": 142246.0,
+		"jumlah_formasi": 45,
+		"gaji_min": 2184000.0,
+		"gaji_max": 6497268.0,
+		"mean_gaji": 4268975.346153846,
+		"mean_gaji_min": 2736565.3846153845,
+		"mean_gaji_max": 5801385.307692308
+	},
+	{
+		"nama": "Pemerintah Kota Bogor",
+		"kode": 246880.0,
+		"jumlah_formasi": 44,
+		"gaji_min": 2301140.0,
+		"gaji_max": 7052364.0,
+		"mean_gaji": 4420494.6749999998,
+		"mean_gaji_min": 2633312.0,
+		"mean_gaji_max": 6207677.3499999996
+	},
+	{
+		"nama": "Pemerintah Kota Pekalongan",
+		"kode": 284812.0,
+		"jumlah_formasi": 44,
+		"gaji_min": 2564000.0,
+		"gaji_max": 3413500.0,
+		"mean_gaji": 3023396.5909090908,
+		"mean_gaji_min": 2838334.0909090908,
+		"mean_gaji_max": 3208459.0909090908
+	},
+	{
+		"nama": "Pemerintah Kota Binjai",
+		"kode": 163463.0,
+		"jumlah_formasi": 43,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 3562153.2258064514,
+		"mean_gaji_min": 2708332.2580645164,
+		"mean_gaji_max": 4415974.1935483869
+	},
+	{
+		"nama": "Pemerintah Kab. Solok Selatan",
+		"kode": 146070.0,
+		"jumlah_formasi": 42,
+		"gaji_min": 2800000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 4511111.111111111,
+		"mean_gaji_min": 2985185.1851851852,
+		"mean_gaji_max": 6037037.0370370373
+	},
+	{
+		"nama": "Pemerintah Kab. Bintan",
+		"kode": 291636.0,
+		"jumlah_formasi": 42,
+		"gaji_min": 1988720.0,
+		"gaji_max": 12211074.0,
+		"mean_gaji": 4273730.597222222,
+		"mean_gaji_min": 2190757.777777778,
+		"mean_gaji_max": 6356703.416666667
+	},
+	{
+		"nama": "Pemerintah Kab. Pohuwato",
+		"kode": 205987.0,
+		"jumlah_formasi": 41,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 2982758.6206896552,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 3965517.2413793104
+	},
+	{
+		"nama": "Pemerintah Kab. Pasangkayu",
+		"kode": 323739.0,
+		"jumlah_formasi": 40,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4192104.0,
+		"mean_gaji": 3226817.487179487,
+		"mean_gaji_min": 2777758.9743589745,
+		"mean_gaji_max": 3675876.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bangka Barat",
+		"kode": 216714.0,
+		"jumlah_formasi": 40,
+		"gaji_min": 2100000.0,
+		"gaji_max": 35000000.0,
+		"mean_gaji": 4743421.0526315793,
+		"mean_gaji_min": 2694736.8421052634,
+		"mean_gaji_max": 6792105.2631578948
+	},
+	{
+		"nama": "Pemerintah Kab. Majene",
+		"kode": 249150.0,
+		"jumlah_formasi": 40,
+		"gaji_min": 2437200.0,
+		"gaji_max": 4281300.0,
+		"mean_gaji": 3361576.6666666665,
+		"mean_gaji_min": 3056926.6666666665,
+		"mean_gaji_max": 3666226.6666666665
+	},
+	{
+		"nama": "Pemerintah Kab. Kep. Mentawai",
+		"kode": 200133.0,
+		"jumlah_formasi": 40,
+		"gaji_min": 2485900.0,
+		"gaji_max": 3903600.0,
+		"mean_gaji": 3261808.1081081079,
+		"mean_gaji_min": 2775321.6216216218,
+		"mean_gaji_max": 3748294.5945945946
+	},
+	{
+		"nama": "Pemerintah Provinsi Kep. Bangka Belitung",
+		"kode": 182400.0,
+		"jumlah_formasi": 39,
+		"gaji_min": 2485900.0,
+		"gaji_max": 7200000.0,
+		"mean_gaji": 4813734.375,
+		"mean_gaji_min": 2755593.75,
+		"mean_gaji_max": 6871875.0
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Utara",
+		"kode": 193914.0,
+		"jumlah_formasi": 39,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 3603905.2631578948,
+		"mean_gaji_min": 2730363.1578947366,
+		"mean_gaji_max": 4477447.3684210526
+	},
+	{
+		"nama": "Pemerintah Kab. Purbalingga",
+		"kode": 218178.0,
+		"jumlah_formasi": 39,
+		"gaji_min": 3000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 4000000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Tanah Laut",
+		"kode": 265278.0,
+		"jumlah_formasi": 39,
+		"gaji_min": 2000000.0,
+		"gaji_max": 19500000.0,
+		"mean_gaji": 6416666.666666667,
+		"mean_gaji_min": 2435897.435897436,
+		"mean_gaji_max": 10397435.897435898
+	},
+	{
+		"nama": "Setjen KOMNAS HAM",
+		"kode": 88968.0,
+		"jumlah_formasi": 38,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5401700.0,
+		"mean_gaji": 4000904.5454545449,
+		"mean_gaji_min": 2717563.6363636358,
+		"mean_gaji_max": 5284245.4545454541
+	},
+	{
+		"nama": "Pemerintah Kota Singkawang",
+		"kode": 186816.0,
+		"jumlah_formasi": 38,
+		"gaji_min": 2511500.0,
+		"gaji_max": 5261500.0,
+		"mean_gaji": 3962426.785714285,
+		"mean_gaji_min": 3018707.1428571427,
+		"mean_gaji_max": 4906146.4285714282
+	},
+	{
+		"nama": "Pemerintah Kab. Kepulauan Talaud",
+		"kode": 168120.0,
+		"jumlah_formasi": 35,
+		"gaji_min": 2500000.0,
+		"gaji_max": 15000000.0,
+		"mean_gaji": 6177083.333333334,
+		"mean_gaji_min": 5104166.666666667,
+		"mean_gaji_max": 7250000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Aceh Singkil",
+		"kode": 132886.0,
+		"jumlah_formasi": 35,
+		"gaji_min": 2785700.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3704411.538461538,
+		"mean_gaji_min": 2803838.461538461,
+		"mean_gaji_max": 4604984.615384615
+	},
+	{
+		"nama": "Pemerintah Kab. Kubu Raya",
+		"kode": 204941.0,
+		"jumlah_formasi": 35,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6000000.0,
+		"mean_gaji": 4278001.6129032262,
+		"mean_gaji_min": 2804390.3225806453,
+		"mean_gaji_max": 5751612.9032258065
+	},
+	{
+		"nama": "Pemerintah Kab. Labuhanbatu",
+		"kode": 177004.0,
+		"jumlah_formasi": 35,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3608717.6470588231,
+		"mean_gaji_min": 2739729.411764706,
+		"mean_gaji_max": 4477705.8823529407
+	},
+	{
+		"nama": "Pemerintah Kab. Minahasa Utara",
+		"kode": 210180.0,
+		"jumlah_formasi": 35,
+		"gaji_min": 3000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3508333.333333333,
+		"mean_gaji_min": 3016666.6666666665,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Banjar",
+		"kode": 170025.0,
+		"jumlah_formasi": 34,
+		"gaji_min": 2100000.0,
+		"gaji_max": 11999999.0,
+		"mean_gaji": 4741260.3399999999,
+		"mean_gaji_min": 2908000.3199999998,
+		"mean_gaji_max": 6574520.3600000003
+	},
+	{
+		"nama": "Pemerintah Kab. Tasikmalaya",
+		"kode": 164997.0,
+		"jumlah_formasi": 33,
+		"gaji_min": 2720558.0,
+		"gaji_max": 3715698.0,
+		"mean_gaji": 3144845.111111111,
+		"mean_gaji_min": 2736487.6296296297,
+		"mean_gaji_max": 3553202.5925925928
+	},
+	{
+		"nama": "Pemerintah Kota Payakumbuh",
+		"kode": 175232.0,
+		"jumlah_formasi": 32,
+		"gaji_min": 3218800.0,
+		"gaji_max": 4565800.0,
+		"mean_gaji": 3892300.0,
+		"mean_gaji_min": 3218800.0,
+		"mean_gaji_max": 4565800.0
+	},
+	{
+		"nama": "Badan Narkotika Nasional",
+		"kode": 68680.0,
+		"jumlah_formasi": 32,
+		"gaji_min": 7100000.0,
+		"gaji_max": 9300000.0,
+		"mean_gaji": 8473529.4117647074,
+		"mean_gaji_min": 8176470.5882352944,
+		"mean_gaji_max": 8770588.2352941185
+	},
+	{
+		"nama": "Pemerintah Kab. Natuna",
+		"kode": 243090.0,
+		"jumlah_formasi": 30,
+		"gaji_min": 3300000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 10220000.0,
+		"mean_gaji_min": 3740000.0,
+		"mean_gaji_max": 16700000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Pidie Jaya",
+		"kode": 148422.0,
+		"jumlah_formasi": 30,
+		"gaji_min": 2485000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3280517.2413793104,
+		"mean_gaji_min": 2792068.965517241,
+		"mean_gaji_max": 3768965.5172413792
+	},
+	{
+		"nama": "Pemerintah Kab. Pandeglang",
+		"kode": 173656.0,
+		"jumlah_formasi": 30,
+		"gaji_min": 2485000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2780867.8571428573,
+		"mean_gaji_min": 2738267.8571428573,
+		"mean_gaji_max": 2823467.8571428573
+	},
+	{
+		"nama": "Pemerintah Kab. Tulang Bawang Barat",
+		"kode": 171390.0,
+		"jumlah_formasi": 30,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4575200.0,
+		"mean_gaji": 3553994.8275862066,
+		"mean_gaji_min": 2702996.5517241377,
+		"mean_gaji_max": 4404993.1034482764
+	},
+	{
+		"nama": "Pemerintah Kab. Pesawaran",
+		"kode": 147725.0,
+		"jumlah_formasi": 29,
+		"gaji_min": 2485900.0,
+		"gaji_max": 7500000.0,
+		"mean_gaji": 4137306.0,
+		"mean_gaji_min": 3074612.0,
+		"mean_gaji_max": 5200000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Ogan Komering Ilir",
+		"kode": 128938.0,
+		"jumlah_formasi": 29,
+		"gaji_min": 2785700.0,
+		"gaji_max": 3200000.0,
+		"mean_gaji": 2992850.0,
+		"mean_gaji_min": 2785700.0,
+		"mean_gaji_max": 3200000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Tanah Datar",
+		"kode": 151396.0,
+		"jumlah_formasi": 29,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2526785.7142857146,
+		"mean_gaji_min": 2017857.142857143,
+		"mean_gaji_max": 3035714.2857142859
+	},
+	{
+		"nama": "Pemerintah Kab. Pangkajene dan Kepulauan",
+		"kode": 190268.0,
+		"jumlah_formasi": 28,
+		"gaji_min": 2100000.0,
+		"gaji_max": 4500000.0,
+		"mean_gaji": 3515384.6153846155,
+		"mean_gaji_min": 2823076.923076923,
+		"mean_gaji_max": 4207692.307692308
+	},
+	{
+		"nama": "Pemerintah Kab. Jeneponto",
+		"kode": 190138.0,
+		"jumlah_formasi": 28,
+		"gaji_min": 3000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 3250000.0,
+		"mean_gaji_min": 3000000.0,
+		"mean_gaji_max": 3500000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Pasaman",
+		"kode": 145854.0,
+		"jumlah_formasi": 27,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3135185.1851851852,
+		"mean_gaji_min": 2696296.2962962962,
+		"mean_gaji_max": 3574074.0740740742
+	},
+	{
+		"nama": "Pemerintah Kab. Lampung Utara",
+		"kode": 159381.0,
+		"jumlah_formasi": 27,
+		"gaji_min": 2254500.0,
+		"gaji_max": 3103000.0,
+		"mean_gaji": 2681040.7407407407,
+		"mean_gaji_min": 2428614.8148148148,
+		"mean_gaji_max": 2933466.6666666665
+	},
+	{
+		"nama": "Pemerintah Kab. Bandung Barat",
+		"kode": 48936.0,
+		"jumlah_formasi": 27,
+		"gaji_min": 2000000.0,
+		"gaji_max": 11000000.0,
+		"mean_gaji": 5868750.0,
+		"mean_gaji_min": 2612500.0,
+		"mean_gaji_max": 9125000.0
+	},
+	{
+		"nama": "Pemerintah Kota Banjarmasin",
+		"kode": 171775.0,
+		"jumlah_formasi": 27,
+		"gaji_min": 2485900.0,
+		"gaji_max": 10813244.0,
+		"mean_gaji": 5376409.5800000001,
+		"mean_gaji_min": 2787932.0,
+		"mean_gaji_max": 7964887.1600000001
+	},
+	{
+		"nama": "Pemerintah Kab. Bondowoso",
+		"kode": 156216.0,
+		"jumlah_formasi": 27,
+		"gaji_min": 3579900.0,
+		"gaji_max": 6530300.0,
+		"mean_gaji": 5055100.0,
+		"mean_gaji_min": 3579900.0,
+		"mean_gaji_max": 6530300.0
+	},
+	{
+		"nama": "Pemerintah Kab. Pelalawan",
+		"kode": 116732.0,
+		"jumlah_formasi": 25,
+		"gaji_min": 2184000.0,
+		"gaji_max": 3700000.0,
+		"mean_gaji": 3054563.6363636358,
+		"mean_gaji_min": 2668218.1818181816,
+		"mean_gaji_max": 3440909.0909090908
+	},
+	{
+		"nama": "Pemerintah Kota Kediri",
+		"kode": 164425.0,
+		"jumlah_formasi": 25,
+		"gaji_min": 2485900.0,
+		"gaji_max": 6720713.0,
+		"mean_gaji": 4684341.46,
+		"mean_gaji_min": 2787452.0,
+		"mean_gaji_max": 6581230.9199999999
+	},
+	{
+		"nama": "Pemerintah Kab. Sukamara",
+		"kode": 161016.0,
+		"jumlah_formasi": 25,
+		"gaji_min": 2000000.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3437500.0,
+		"mean_gaji_min": 2062500.0,
+		"mean_gaji_max": 4812500.0
+	},
+	{
+		"nama": "Sekretariat Jenderal MPR",
+		"kode": 56056.0,
+		"jumlah_formasi": 25,
+		"gaji_min": 9000000.0,
+		"gaji_max": 12500000.0,
+		"mean_gaji": 10464285.7142857164,
+		"mean_gaji_min": 9714285.7142857164,
+		"mean_gaji_max": 11214285.7142857164
+	},
+	{
+		"nama": "Pemerintah Kab. Klaten",
+		"kode": 141328.0,
+		"jumlah_formasi": 24,
+		"gaji_min": 2485900.0,
+		"gaji_max": 2785700.0,
+		"mean_gaji": 2676681.8181818184,
+		"mean_gaji_min": 2676681.8181818184,
+		"mean_gaji_max": 2676681.8181818184
+	},
+	{
+		"nama": "Pemerintah Kota Banjarbaru",
+		"kode": 144312.0,
+		"jumlah_formasi": 24,
+		"gaji_min": 2485900.0,
+		"gaji_max": 8000000.0,
+		"mean_gaji": 4186895.2380952383,
+		"mean_gaji_min": 2802361.9047619049,
+		"mean_gaji_max": 5571428.5714285718
+	},
+	{
+		"nama": "Pemerintah Kab. Nganjuk",
+		"kode": 156456.0,
+		"jumlah_formasi": 24,
+		"gaji_min": 2785700.0,
+		"gaji_max": 5500000.0,
+		"mean_gaji": 4142850.0,
+		"mean_gaji_min": 2785700.0,
+		"mean_gaji_max": 5500000.0
+	},
+	{
+		"nama": "Pemerintah Provinsi Sulawesi Barat",
+		"kode": 182600.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 2700000.0,
+		"gaji_max": 30000000.0,
+		"mean_gaji": 11838636.3636363633,
+		"mean_gaji_min": 2977272.7272727271,
+		"mean_gaji_max": 20700000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Siak",
+		"kode": 111489.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 2228560.0,
+		"gaji_max": 5322880.0,
+		"mean_gaji": 3607852.3809523811,
+		"mean_gaji_min": 2363804.7619047621,
+		"mean_gaji_max": 4851900.0
+	},
+	{
+		"nama": "Pemerintah Kab. Enrekang",
+		"kode": 161062.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 2785500.0,
+		"gaji_max": 3650500.0,
+		"mean_gaji": 3217954.5454545454,
+		"mean_gaji_min": 2785500.0,
+		"mean_gaji_max": 3650409.0909090908
+	},
+	{
+		"nama": "Pemerintah Kab. Empat Lawang",
+		"kode": 129053.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 2579400.0,
+		"gaji_max": 8960678.0,
+		"mean_gaji": 3717666.913043479,
+		"mean_gaji_min": 2744086.9565217397,
+		"mean_gaji_max": 4691246.8695652178
+	},
+	{
+		"nama": "Pemerintah Kota Tarakan",
+		"kode": 127065.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 3500000.0,
+		"gaji_max": 7000000.0,
+		"mean_gaji": 5276666.666666667,
+		"mean_gaji_min": 3553333.333333333,
+		"mean_gaji_max": 7000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Banda Aceh",
+		"kode": 113784.0,
+		"jumlah_formasi": 23,
+		"gaji_min": 1900000.0,
+		"gaji_max": 2700000.0,
+		"mean_gaji": 2459090.9090909092,
+		"mean_gaji_min": 2259090.9090909092,
+		"mean_gaji_max": 2659090.9090909092
+	},
+	{
+		"nama": "Pemerintah Kab. Bolaang Mongondow Selatan",
+		"kode": 91156.0,
+		"jumlah_formasi": 22,
+		"gaji_min": 2184000.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3765238.4615384615,
+		"mean_gaji_min": 2848246.153846154,
+		"mean_gaji_max": 4682230.769230769
+	},
+	{
+		"nama": "Pemerintah Kab. Ogan Komering Ulu",
+		"kode": 106438.0,
+		"jumlah_formasi": 22,
+		"gaji_min": 2785700.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3705042.1052631577,
+		"mean_gaji_min": 2804315.789473684,
+		"mean_gaji_max": 4605768.4210526319
+	},
+	{
+		"nama": "Pemerintah Kab. Ogan Komering Ulu Sel.",
+		"kode": 33654.0,
+		"jumlah_formasi": 22,
+		"gaji_min": 2000000.0,
+		"gaji_max": 4000000.0,
+		"mean_gaji": 3000000.0,
+		"mean_gaji_min": 2000000.0,
+		"mean_gaji_max": 4000000.0
+	},
+	{
+		"nama": "Pemerintah Kab. Wajo",
+		"kode": 138757.0,
+		"jumlah_formasi": 22,
+		"gaji_min": 2785700.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 3569360.5263157897,
+		"mean_gaji_min": 2822931.5789473685,
+		"mean_gaji_max": 4315789.4736842103
+	},
+	{
+		"nama": "Pemerintah Kab. Jombang",
+		"kode": 136584.0,
+		"jumlah_formasi": 21,
+		"gaji_min": 3203600.0,
+		"gaji_max": 3652104.0,
+		"mean_gaji": 3427852.0,
+		"mean_gaji_min": 3203600.0,
+		"mean_gaji_max": 3652104.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bone Bolango",
+		"kode": 134976.0,
+		"jumlah_formasi": 20,
+		"gaji_min": 2785700.0,
+		"gaji_max": 2903600.0,
+		"mean_gaji": 2847752.6315789474,
+		"mean_gaji_min": 2847752.6315789474,
+		"mean_gaji_max": 2847752.6315789474
+	},
+	{
+		"nama": "Pemerintah Kab. Bangka Selatan",
+		"kode": 91280.0,
+		"jumlah_formasi": 20,
+		"gaji_min": 2485900.0,
+		"gaji_max": 5300000.0,
+		"mean_gaji": 3601446.875,
+		"mean_gaji_min": 2736643.75,
+		"mean_gaji_max": 4466250.0
+	},
+	{
+		"nama": "Pemerintah Kab. Purworejo",
+		"kode": 77064.0,
+		"jumlah_formasi": 17,
+		"gaji_min": 2715300.0,
+		"gaji_max": 4713558.0,
+		"mean_gaji": 3635666.8333333335,
+		"mean_gaji_min": 2715300.0,
+		"mean_gaji_max": 4556033.666666667
+	},
+	{
+		"nama": "Pemerintah Kab. Luwu",
+		"kode": 109635.0,
+		"jumlah_formasi": 16,
+		"gaji_min": 2842800.0,
+		"gaji_max": 7889700.0,
+		"mean_gaji": 3749823.3333333335,
+		"mean_gaji_min": 3316213.333333333,
+		"mean_gaji_max": 4183433.3333333335
+	},
+	{
+		"nama": "Pemerintah Kab. Situbondo",
+		"kode": 71610.0,
+		"jumlah_formasi": 16,
+		"gaji_min": 3043800.0,
+		"gaji_max": 5000000.0,
+		"mean_gaji": 4065481.8181818174,
+		"mean_gaji_min": 3130963.6363636358,
+		"mean_gaji_max": 5000000.0
+	},
+	{
+		"nama": "Pemerintah Kota Tanjungpinang",
+		"kode": 122580.0,
+		"jumlah_formasi": 15,
+		"gaji_min": 3228600.0,
+		"gaji_max": 23228600.0,
+		"mean_gaji": 9012450.6666666679,
+		"mean_gaji_min": 3228600.0,
+		"mean_gaji_max": 14796301.333333334
+	},
+	{
+		"nama": "Pemerintah Kab. Jembrana",
+		"kode": 52514.0,
+		"jumlah_formasi": 15,
+		"gaji_min": 2000000.0,
+		"gaji_max": 3500000.0,
+		"mean_gaji": 2928571.4285714286,
+		"mean_gaji_min": 2428571.4285714286,
+		"mean_gaji_max": 3428571.4285714286
+	},
+	{
+		"nama": "Pemerintah Kota Pasuruan",
+		"kode": 98610.0,
+		"jumlah_formasi": 15,
+		"gaji_min": 2785700.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3646873.3333333335,
+		"mean_gaji_min": 2947880.0,
+		"mean_gaji_max": 4345866.666666667
+	},
+	{
+		"nama": "Pemerintah Kota Magelang",
+		"kode": 90650.0,
+		"jumlah_formasi": 14,
+		"gaji_min": 2485900.0,
+		"gaji_max": 8097100.0,
+		"mean_gaji": 5207114.2857142854,
+		"mean_gaji_min": 2700042.8571428573,
+		"mean_gaji_max": 7714185.7142857146
+	},
+	{
+		"nama": "Pemerintah Kota Mojokerto",
+		"kode": 78864.0,
+		"jumlah_formasi": 13,
+		"gaji_min": 2485900.0,
+		"gaji_max": 10358540.0,
+		"mean_gaji": 4962054.583333333,
+		"mean_gaji_min": 2705416.6666666665,
+		"mean_gaji_max": 7218692.5
+	},
+	{
+		"nama": "Pemerintah Kab. Seram Bagian Barat",
+		"kode": 70254.0,
+		"jumlah_formasi": 10,
+		"gaji_min": 1988720.0,
+		"gaji_max": 4461784.0,
+		"mean_gaji": 3021821.333333333,
+		"mean_gaji_min": 2349477.777777778,
+		"mean_gaji_max": 3694164.888888889
+	},
+	{
+		"nama": "Pemerintah Kota Yogyakarta",
+		"kode": 57339.0,
+		"jumlah_formasi": 10,
+		"gaji_min": 2631551.0,
+		"gaji_max": 6723557.0,
+		"mean_gaji": 4677554.0,
+		"mean_gaji_min": 2631551.0,
+		"mean_gaji_max": 6723557.0
+	},
+	{
+		"nama": "Pemerintah Kab. Bangli",
+		"kode": 67554.0,
+		"jumlah_formasi": 9,
+		"gaji_min": 2485900.0,
+		"gaji_max": 4970500.0,
+		"mean_gaji": 3735777.777777778,
+		"mean_gaji_min": 2838066.6666666665,
+		"mean_gaji_max": 4633488.888888889
+	},
+	{
+		"nama": "Pemerintah Provinsi Sulawesi Selatan",
+		"kode": 36500.0,
+		"jumlah_formasi": 6,
+		"gaji_min": 2785700.0,
+		"gaji_max": 2785700.0,
+		"mean_gaji": 2785700.0,
+		"mean_gaji_min": 2785700.0,
+		"mean_gaji_max": 2785700.0
+	},
+	{
+		"nama": "Pemerintah Kota Gorontalo",
+		"kode": 35855.0,
+		"jumlah_formasi": 5,
+		"gaji_min": 2903600.0,
+		"gaji_max": 4768800.0,
+		"mean_gaji": 3836200.0,
+		"mean_gaji_min": 2903600.0,
+		"mean_gaji_max": 4768800.0
+	}
+]
